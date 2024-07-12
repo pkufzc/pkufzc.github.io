@@ -34,9 +34,9 @@ redirect_from:
 
   [6] **Zhuochen Fan**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering.*
 
-  [5] Zirui Liu^, Yikai Zhao^, **Zhuochen Fan^**, Tong Yang, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *IEEE International Conference on Network Protocols.* 
+  [5] Zirui Liu^, Yikai Zhao^, **Zhuochen Fan^**, Tong Yang, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *IEEE International Conference on Network Protocols.* (^equal contribution)
 
-  [4] Yuhan Wu^, **Zhuochen Fan^**, Qilong Shi, Yixin Zhang, Tong Yang, Cheng Chen, Zheng Zhong, Junnan Li, Ariel Shtul, Yaofeng Tu. SHE: A Generic Framework for Data Stream Mining over Sliding Windows. *International Conference on Parallel Processing.*
+  [4] Yuhan Wu^, **Zhuochen Fan^**, Qilong Shi, Yixin Zhang, Tong Yang, Cheng Chen, Zheng Zhong, Junnan Li, Ariel Shtul, Yaofeng Tu. SHE: A Generic Framework for Data Stream Mining over Sliding Windows. *International Conference on Parallel Processing.* (^equal contribution)
 
   [3] **Zhuochen Fan**, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Wenrui Liu, Tong Yang, Hengrui Wang, Yifei Xu, Steve Uhlig, Yaofeng Tu. PISketch: Finding Persistent and Infrequent Flows. *ACM SIGCOMM Workshop on Formal Foundations and Security of Programmable Network Infrastructures.*
 
@@ -46,11 +46,11 @@ redirect_from:
 
 ### 2019 and before:
 
-- Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on feature extraction algorithm for plantar pressure image and gait analysis in stroke patients. *Journal of Visual Communication and Image Representation.*
+* Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on feature extraction algorithm for plantar pressure image and gait analysis in stroke patients. *Journal of Visual Communication and Image Representation.*
 
-- Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG segmentation algorithm and walking analysis based on signal envelope and integral electrical signal. *Photonic Network Communications.* 
+* Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG segmentation algorithm and walking analysis based on signal envelope and integral electrical signal. *Photonic Network Communications.* 
 
-- Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D foot shape feature parameter measurement algorithm based on Kinect2. *EURASIP Journal on Image and Video Processing.*
+* Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D foot shape feature parameter measurement algorithm based on Kinect2. *EURASIP Journal on Image and Video Processing.*
 
 ## Preprint:
   [1] **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. [CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs](https://arxiv.org/abs/2405.15193). arXiv preprint arXiv:2405.15193, 2024.
