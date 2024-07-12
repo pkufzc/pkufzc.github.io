@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Publications:
-<small> ^ represents co-first author</small>
+<small> ^ represents co-first authors</small>
 
 ### 2024:
   [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **Zhuochen Fan**, Zhiting Xiong, Tong Yang, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).*
@@ -48,11 +48,11 @@ redirect_from:
 
 ### 2019 and before:
 
-[*] Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on feature extraction algorithm for plantar pressure image and gait analysis in stroke patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C).*
+    - Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on feature extraction algorithm for plantar pressure image and gait analysis in stroke patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C).*
 
-[*] Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG segmentation algorithm and walking analysis based on signal envelope and integral electrical signal. *Photonic Network Communications (JCR Q3).* 
+    - Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG segmentation algorithm and walking analysis based on signal envelope and integral electrical signal. *Photonic Network Communications (JCR Q3).* 
 
-[*] Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D foot shape feature parameter measurement algorithm based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3).*
+    - Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D foot shape feature parameter measurement algorithm based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3).*
 
 ## Preprint:
   [1] **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. [CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs](https://arxiv.org/abs/2405.15193). arXiv preprint arXiv:2405.15193, 2024.
