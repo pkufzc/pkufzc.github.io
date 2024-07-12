@@ -21,7 +21,7 @@ repository               : "pkufzc/pkufzc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhuochen.jpg"
+  avatar           : "fzc.png"
   name             : "Zhuochen Fan"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at PKU"
