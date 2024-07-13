@@ -7,7 +7,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
-
+<small> ^ represents co-first authors</small>
 ## Publications:
 <small> ^ represents co-first authors</small>
 
