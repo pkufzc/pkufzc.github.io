@@ -42,7 +42,7 @@ redirect_from:
 
   [2] **<u>Zhuochen Fan</u>**, Tian Liu, Jun Huang, Tong Yang. Beyond Video Surveillance: Exploiting Sleep-Talk of Apps to See Smartphone's ID. *2022 IEEE Wireless Communications and Networking Conference (WCNC, CCF-C).* [[PDF]](../files/IDCam.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9771759)
 
-  [1] **<u>Zhuochen Fan</u>**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A)* [[PDF]](../files/PeriodicSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9835334)
+  [1] **<u>Zhuochen Fan</u>**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/PeriodicSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9835334)
 
 ## 2019 and before:
 
