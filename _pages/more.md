@@ -9,31 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Projects:
-  - *BUPT Excellent Ph.D. Students Project:* Research on Inter-domain Routing Optimizations (Apr. 2021-Apr. 2023, PI).
+## Fundings:
+  - Research on Key Techniques for High-Performance Filters, supported by China Postdoctoral Science Foundation (General Fund), 2024.06 - 2025.02, Principal Investigator;
+  - Construction and Validation of Prediction Models for Coronary Artery Heart Disease with Artificial Intelligence characterized by fundus images, supported by Peking University, 2024.04 - 2025.02, Co-Principal Investigator;
+  - Research on Key Techniques for Optimizing Storage Performance of Large-Scale Key-Value Data, supported by China Postdoctoral Science Foundation (Postdoctoral Fellowship Program), 2023.12 - 2025.02, Principal Investigator;
+  - Research on Key Algorithms and Applications of New Pattern Detection for High-Speed Data Streams, supported by China Postdoctoral Science Foundation (Special Fund), 2023.06 - 2025.02, Principal Investigator;
 
 ## Acdaemic Services:
   - **Journal Reviewer:** 
-      - [IEEE/ACM Transactions on Networking](https://www.computer.org/csdl/journal/nt) 
-      - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network) 
-      - [The Journal of Supercomputing](https://link.springer.com/journal/11227/volumes-and-issues?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT)
-      - [Applied Intelligence](https://www.springer.com/journal/10489/)
-      - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
+      - [ACM Computing Surveys](https://dl.acm.org/journal/csur);
 
 ## Work Experiences:
-  - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 - Now.
-  - Network Architecture Research Center, BUPT, Assistant Researcher. Jul. 2023 - Dec. 2023.
-  - 2012 Theory Lab, Huawei, Ph.D. Research Intern. Jul. 2019 - Sep. 2019.
-
-## Teaching Experiences:
-  - New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
-  
-## Awards:
-  - Outstanding Graduate of Beijing.
-  - Outstanding Graduate of BUPT.
-  - National Scholarship for Doctoral Student.
-  - BUPT Excellent Ph.D. Students Foundation.
-  - The First Prize Scholarship of BUPT.
-  - Excellent Graduate Student, BUPT (2020, 2021).
-  - Excellent Graduate Student of State Key Lab of N&S Technology (2019, 2020, 2021).
-
+  - School of Computer Science, Peking University, Boya (Erudition in English, awarded by PKU) Postdoc Fellow, 2023.02 - 2025.02; 
+  - 2012 Theory Lab, Huawei, Ph.D. Research Intern, 2021.08 - 2023.01; 
