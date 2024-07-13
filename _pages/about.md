@@ -8,16 +8,17 @@ redirect_from:
 ---
 
  I am a Boya post-doctoral fellow at the [School of Computer Science](https://cs.pku.edu.cn/), Peking University (collaborated with Prof. [Tong Yang](https://yangtonghome.github.io/)). I received my Ph.D. in computer science from Peking University, advised by Prof. Tong Yang.
-- Research Interests: Network Measurement, Database, LLM, etc.
+- Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, Machine Learning, LLM, and etc.
 - Email: fanzc@pku.edu.cn
 - Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 ## News: 
-- [06/2024]**(Project)**: Win general fund from China Postdoctoral Science Foundation.
+- [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
+- [04/2024]**(Funding)**: Win Clinical Medicine plus X Youth Special Fund of Peking University.
 - [04/2024]**(Paper)**: [VisionEmbedder](../files/VisionEmbedder.pdf) is accepted by **ICDE'24**.
 - [04/2024]**(Paper)**: [M4](../files/M4.pdf) is accepted by **ICDE'24**.
-- [12/2023]**(Project)**: Win Postdoctoral Fellowship Program of China Postdoctoral Science Foundation.
-- [07/2023]**(Project)**: Win special fund from China Postdoctoral Science Foundation.
+- [12/2023]**(Funding)**: Win Postdoctoral Fellowship Program of China Postdoctoral Science Foundation.
+- [07/2023]**(Funding)**: Win Special Fund of China Postdoctoral Science Foundation.
 - [07/2023]**(Paper)**: [BurstBalancer (journal version)](../files/BurstBalancer_TPDS.pdf) is accepted by **TPDS**.
 - [05/2023]**(Paper)**: [OneSketch](../files/OneSketch.pdf) is accepted by **TKDE**.
 - [04/2023]**(Paper)**: [PISketch (journal version)](../files/PISketch_ToN.pdf) is accepted by **ToN**.
