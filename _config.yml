@@ -12,7 +12,7 @@ title                    : "Zhuochen Fan"
 title_separator          : "-"
 name                     : &name "Zhuochen Fan"
 description              : &description "Postdoc@PKU"
-url                      : https://pkufzc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pkufzc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pkufzc/pkufzc.github.io"
 
