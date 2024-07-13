@@ -50,7 +50,7 @@ Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Resea
 
 Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG Segmentation Algorithm and Walking Analysis Based on Signal Envelope and Integral Electrical Signal. *Photonic Network Communications (JCR Q3), 2019.* [[HTML]](https://link.springer.com/article/10.1007/s11107-018-0809-1)
 
-Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D Foot Shape Feature Parameter Measurement Algorithm Based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3), 2018.* [HTML](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0368-5)
+Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D Foot Shape Feature Parameter Measurement Algorithm Based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3), 2018.* [[HTML]](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0368-5)
 
 ## Preprint:
   [1] **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. arXiv preprint arXiv:2405.15193, 2024. [[PDF]](https://arxiv.org/pdf/2405.15193) [[HTML]](https://arxiv.org/abs/2405.15193)
