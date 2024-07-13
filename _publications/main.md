@@ -46,11 +46,11 @@ redirect_from:
 
 ## 2019 and before:
 
-Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on feature extraction algorithm for plantar pressure image and gait analysis in stroke patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C).*
+Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on Feature Extraction Algorithm for Plantar Pressure Image and Gait Analysis in Stroke Patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C), 2019.*
 
-Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG segmentation algorithm and walking analysis based on signal envelope and integral electrical signal. *Photonic Network Communications (JCR Q3).* 
+Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **Zhuochen Fan**, Zhong Liu. Research on EMG Segmentation Algorithm and Walking Analysis Based on Signal Envelope and Integral Electrical Signal. *Photonic Network Communications (JCR Q3), 2019.* 
 
-Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D foot shape feature parameter measurement algorithm based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3).*
+Mo Wang, Xin’an Wang, **Zhuochen Fan**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D Foot Shape Feature Parameter Measurement Algorithm Based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3), 2018.*
 
 ## Preprint:
   [1] **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. [CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs](https://arxiv.org/pdf/2405.15193). arXiv preprint arXiv:2405.15193, 2024.
