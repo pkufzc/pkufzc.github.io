@@ -10,7 +10,7 @@ redirect_from:
 <small> ^ represents co-first authors</small>
 
 ## 2024:
-  [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **Zhuochen Fan**, Zhiting Xiong, Tong Yang, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [PDF](../files/VisionEmbedder.pdf)
+  [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **Zhuochen Fan**, Zhiting Xiong, Tong Yang, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/VisionEmbedder.pdf)
   
   [15] Siyuan Dong^, **Zhuochen Fan^**, Tianyu Bai^, Tong Yang, Hanyu Xue, Peiqing Chen, Yuhan Wu. [M4: A Framework for Per-Flow Quantile Estimation](../files/M4.pdf). *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).*
   
