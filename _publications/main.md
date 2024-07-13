@@ -8,15 +8,13 @@ redirect_from:
   - /publications.html
 ---
 <small> ^ represents co-first authors</small>
-## Publications:
-<small> ^ represents co-first authors</small>
 
-### 2024:
+## 2024:
   [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **Zhuochen Fan**, Zhiting Xiong, Tong Yang, Bin Cui. [VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure](../files/VisionEmbedder.pdf). *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).*
   
   [15] Siyuan Dong^, **Zhuochen Fan^**, Tianyu Bai^, Tong Yang, Hanyu Xue, Peiqing Chen, Yuhan Wu. [M4: A Framework for Per-Flow Quantile Estimation](../files/M4.pdf). *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).*
   
-### 2023:
+## 2023:
   [14] Zirui Liu^, Yikai Zhao^, **Zhuochen Fan^**, Tong Yang, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. [BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic](../files/BurstBalancer_TPDS.pdf). *IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A), 2023.* 
 
   [13] **Zhuochen Fan^**, Ruixin Wang^, Yalun Cai^, Ruwen Zhang, Tong Yang, Yuhan Wu, Bin Cui, Steve Uhlig. [OneSketch: A Generic and Accurate Sketch for Data Streams](../files/OneSketch.pdf). *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.*
@@ -29,7 +27,7 @@ redirect_from:
 
   [9] **Zhuochen Fan**, Yanwei Xu, Peng Liu, Xiaodong Li, Ruwen Zhang, Tong Yang, Wenfei Wu, Yuqing Li, Li Chen, Gong Zhang. [SSA: Microsecond Level Clock Synchronization Based on Machine Learning for IoT Devices](../files/SSA.pdf). *IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1), 2023.*
 
-### 2022:
+## 2022:
   [8] **Zhuochen Fan^**, Yubo Zhang^, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang, Steve Uhlig, Bin Cui. [HoppingSketch: More Accurate Temporal Membership Query and Frequency Query](../files/HoppingSketch.pdf). *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.*
 
   [7] **Zhuochen Fan^**, Xiaodong Li^, Yanwei Xu*, Yuqing Li, Tong Yang*, Steve Uhlig. [Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters](../files/CAT-Sync.pdf). *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A)*
@@ -46,7 +44,7 @@ redirect_from:
 
   [1] **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. [PeriodicSketch: Finding Periodic Items in Data Streams](../files/PeriodicSketch.pdf). *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A)*
 
-### 2019 and before:
+## 2019 and before:
 
 Mo Wang, Xin’an Wang, **Zhuochen Fan**, Fei Chen, Sixu Zhang, Chen Peng. Research on feature extraction algorithm for plantar pressure image and gait analysis in stroke patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C).*
 
