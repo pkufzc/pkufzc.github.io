@@ -14,7 +14,7 @@ redirect_from:
 
 ## News: 
 - [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
-- [04/2024]**(Funding)**: Win Clinical Medicine plus X Youth Special Fund of Peking University.
+- [04/2024]**(Funding)**: Win Clinical Medicine plus X-Youth Special Fund of Peking University.
 - [04/2024]**(Paper)**: [VisionEmbedder](../files/VisionEmbedder.pdf) is accepted by **ICDE'24**.
 - [04/2024]**(Paper)**: [M4](../files/M4.pdf) is accepted by **ICDE'24**.
 - [12/2023]**(Funding)**: Win Postdoctoral Fellowship Program of China Postdoctoral Science Foundation.
