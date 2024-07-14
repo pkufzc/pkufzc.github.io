@@ -36,7 +36,7 @@ redirect_from:
 - [11/2021]**(Paper)**: [PeriodicSketch](../files/PeriodicSketch.pdf) is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
-- **[ICDE 2022]** [1] **<u>Zhuochen Fan</u>**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A).* 
+- **[ICDE 2022]** **<u>Zhuochen Fan</u>**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A).* 
 
 
 <p align='right'><i>Last updated: June 2024</i></p>
