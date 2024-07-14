@@ -21,19 +21,19 @@ redirect_from:
 - [07/2023]**(Funding)**: Win Special Fund of China Postdoctoral Science Foundation.
 - [07/2023]**(Paper)**: `BurstBalancer (journal version)` is accepted by **TPDS**.
 - [05/2023]**(Paper)**: `OneSketch` is accepted by **TKDE**.
-- [04/2023]**(Paper)**: [PISketch (journal version)](../files/PISketch_ToN.pdf) is accepted by **ToN**.
-- [03/2023]**(Paper)**: [SteadySketch (conference version)](../files/SteadySketch_IWQoS.pdf) is accepted by **IWQoS'23**.
-- [02/2023]**(Paper)**: [X-Sketch](../files/X-Sketch.pdf) is accepted by **ICDE'23**.
-- [01/2023]**(Paper)**: [SSA](../files/SSA.pdf) is accepted by **TIM**.
+- [04/2023]**(Paper)**: `PISketch (journal version)` is accepted by **ToN**.
+- [03/2023]**(Paper)**: `SteadySketch (conference version)` is accepted by **IWQoS'23**.
+- [02/2023]**(Paper)**: `X-Sketch` is accepted by **ICDE'23**.
+- [01/2023]**(Paper)**: `SSA` is accepted by **TIM**.
 - [11/2022]**(Degree)**: Successfully passed the doctoral dissertation defense.
-- [11/2022]**(Paper)**: [HoppingSketch](../files/HoppingSketch.pdf) is accepted by **TKDE**.
-- [09/2022]**(Paper)**: [CAT-Sync](../files/CAT-Sync.pdf) is accepted by **RTSS'22**.
-- [08/2022]**(Paper)**: [A paper on the theoretical optimization of Bloom filter](../files/BloomFilter-FP.pdf) is accepted by **TKDE**.
-- [07/2022]**(Paper)**: [BurstBalancer (conference version)](../files/BurstBalancer_ICNP.pdf) is accepted by **ICNP'22**.
-- [06/2022]**(Paper)**: [PISketch (conference version)](../files/PISketch_SIGCOMMW.pdf) is accepted by **SIGCOMM FFSPIN'22**.
-- [06/2022]**(Paper)**: [SHE](../files/SHE.pdf) is accepted by **ICPP'22**.
-- [12/2021]**(Paper)**: [IDCam](../files/IDCam.pdf) is accepted by **WCNC'22**.
-- [11/2021]**(Paper)**: [PeriodicSketch](../files/PeriodicSketch.pdf) is accepted by **ICDE'22**.
+- [11/2022]**(Paper)**: `HoppingSketch` is accepted by **TKDE**.
+- [09/2022]**(Paper)**: `CAT-Sync` is accepted by **RTSS'22**.
+- [08/2022]**(Paper)**: A paper on the `theoretical optimization of Bloom filter` is accepted by **TKDE**.
+- [07/2022]**(Paper)**: `BurstBalancer (conference version)` is accepted by **ICNP'22**.
+- [06/2022]**(Paper)**: `PISketch (conference version)` is accepted by **SIGCOMM FFSPIN'22**.
+- [06/2022]**(Paper)**: `SHE` is accepted by **ICPP'22**.
+- [12/2021]**(Paper)**: `IDCam` is accepted by **WCNC'22**.
+- [11/2021]**(Paper)**: `PeriodicSketch` is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
 - **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A).*
