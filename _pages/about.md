@@ -36,12 +36,12 @@ redirect_from:
 - [11/2021]**(Paper)**: `PeriodicSketch` is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
-- **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A).*
-- **[TKDE 2023]** **Zhuochen Fan**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.*
-- **[RTSS 2022]** **Zhuochen Fan**, Xiaodong Li, Yanwei Xu, Yuqing Li, Tong Yang, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A)*
-- **[TKDE 2023]** **Zhuochen Fan**, Yubo Zhang, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.*
-- **[ICDE 2023]** **Zhuochen Fan**, Jiarui Guo, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang. Finding Simplex Items in Data Streams. *2023 IEEE 39th International Conference on Data Engineering (ICDE, CCF-A).*
-- **[ToN 2023]** **Zhuochen Fan**, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Sha Wang, Ruiwen Liu, Tong Yang, Yaofeng Tu, Steve Uhlig. PISketch: Finding Persistent and Infrequent Flows. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2023.*
-- **[TKDE 2023]** **Zhuochen Fan**, Ruixin Wang, Yalun Cai, Ruwen Zhang, Tong Yang, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.*
+- **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE).* `CCF-A`
+- **[TKDE 2023]** **Zhuochen Fan**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
+- **[RTSS 2022]** **Zhuochen Fan**, Xiaodong Li, Yanwei Xu, Yuqing Li, Tong Yang, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS).* `CCF-A`
+- **[TKDE 2023]** **Zhuochen Fan**, Yubo Zhang, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
+- **[ICDE 2023]** **Zhuochen Fan**, Jiarui Guo, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang. Finding Simplex Items in Data Streams. *2023 IEEE 39th International Conference on Data Engineering (ICDE).* `CCF-A`
+- **[ToN 2023]** **Zhuochen Fan**, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Sha Wang, Ruiwen Liu, Tong Yang, Yaofeng Tu, Steve Uhlig. PISketch: Finding Persistent and Infrequent Flows. *IEEE/ACM Transactions on Networking (ToN), 2023.* `CCF-A`
+- **[TKDE 2023]** **Zhuochen Fan**, Ruixin Wang, Yalun Cai, Ruwen Zhang, Tong Yang, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
 
 <p align='right'><i>Last updated: July 2024</i></p>
