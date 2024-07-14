@@ -36,7 +36,7 @@ redirect_from:
 - [11/2021]**(Paper)**: `PeriodicSketch` is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
-- **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE).* `CCF-A`
+- **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE).* **`CCF-A`**
 - **[TKDE 2023]** **Zhuochen Fan**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
 - **[RTSS 2022]** **Zhuochen Fan**, Xiaodong Li, Yanwei Xu, Yuqing Li, Tong Yang, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS).* `CCF-A`
 - **[TKDE 2023]** **Zhuochen Fan**, Yubo Zhang, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
