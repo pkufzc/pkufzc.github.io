@@ -9,7 +9,7 @@ redirect_from:
 
  I am a Boya post-doctoral fellow at the [School of Computer Science](https://cs.pku.edu.cn/), Peking University (PKU), collaborated with Prof. [Tong Yang](https://yangtonghome.github.io/). I received my Ph.D. in computer science from Peking University, advised by Prof. Tong Yang.
 - Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, Machine Learning, LLM, and etc.
-- Email: fanzc@pku.edu.cn or zhuochen.fan@gmail.com
+- Email: `fanzc@pku.edu.cn` or `zhuochen.fan@gmail.com`
 - Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 ## News: 
