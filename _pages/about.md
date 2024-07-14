@@ -36,11 +36,7 @@ redirect_from:
 - [11/2021]**(Paper)**: [PeriodicSketch](../files/PeriodicSketch.pdf) is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
-- **[JSAC 2022]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
-  **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
-  IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
+- **[ICDE 2022]** [1] **<u>Zhuochen Fan</u>**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE, CCF-A).* 
 
-
-<p align='right'><a href="https://clustrmaps.com/site/1boab" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff"></a></p>
 
 <p align='right'><i>Last updated: June 2024</i></p>
