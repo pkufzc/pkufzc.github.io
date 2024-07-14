@@ -15,12 +15,12 @@ redirect_from:
 ## News: 
 - [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
 - [04/2024]**(Funding)**: Win Clinical Medicine plus X-Youth Special Fund of Peking University.
-- [04/2024]**(Paper)**: [VisionEmbedder](../files/VisionEmbedder.pdf) is accepted by **ICDE'24**.
-- [04/2024]**(Paper)**: [M4](../files/M4.pdf) is accepted by **ICDE'24**.
+- [04/2024]**(Paper)**: `VisionEmbedder` is accepted by **ICDE'24**.
+- [04/2024]**(Paper)**: `M4` is accepted by **ICDE'24**.
 - [12/2023]**(Funding)**: Win Postdoctoral Fellowship Program of China Postdoctoral Science Foundation.
 - [07/2023]**(Funding)**: Win Special Fund of China Postdoctoral Science Foundation.
-- [07/2023]**(Paper)**: [BurstBalancer (journal version)](../files/BurstBalancer_TPDS.pdf) is accepted by **TPDS**.
-- [05/2023]**(Paper)**: [OneSketch](../files/OneSketch.pdf) is accepted by **TKDE**.
+- [07/2023]**(Paper)**: `BurstBalancer (journal version)` is accepted by **TPDS**.
+- [05/2023]**(Paper)**: `OneSketch` is accepted by **TKDE**.
 - [04/2023]**(Paper)**: [PISketch (journal version)](../files/PISketch_ToN.pdf) is accepted by **ToN**.
 - [03/2023]**(Paper)**: [SteadySketch (conference version)](../files/SteadySketch_IWQoS.pdf) is accepted by **IWQoS'23**.
 - [02/2023]**(Paper)**: [X-Sketch](../files/X-Sketch.pdf) is accepted by **ICDE'23**.
