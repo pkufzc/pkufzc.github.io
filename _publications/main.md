@@ -30,7 +30,7 @@ redirect_from:
 ## 2022:
   [8] **<u>Zhuochen Fan</u>^**, Yubo Zhang^, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.* [[PDF]](../files/HoppingSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9944968)
 
-  [7] **<u>Zhuochen Fan</u>^**, Xiaodong Li^, Yanwei Xu, Yuqing Li, Tong Yang, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A)* [[PDF]]((../files/CAT-Sync.pdf)) [[HTML]](https://ieeexplore.ieee.org/document/9984784)
+  [7] **<u>Zhuochen Fan</u>^**, Xiaodong Li^, Yanwei Xu, Yuqing Li, Tong Yang, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A).* [[PDF]]((../files/CAT-Sync.pdf)) [[HTML]](https://ieeexplore.ieee.org/document/9984784)
 
   [6] **<u>Zhuochen Fan</u>**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.* [[PDF]](../files/BloomFilter-FP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9863640)
 
