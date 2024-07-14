@@ -299,13 +299,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-# Sitemap settings
-defaults:
-  - scope:
-      path: "assets"
-    values:
-      sitemap: false
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
