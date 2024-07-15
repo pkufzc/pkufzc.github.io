@@ -52,7 +52,4 @@ Mo Wang, Xin’an Wang, Chen Peng, Sixu Zhang, **<u>Zhuochen Fan</u>**, Zhong Li
 
 Mo Wang, Xin’an Wang, **<u>Zhuochen Fan</u>**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D Foot Shape Feature Parameter Measurement Algorithm Based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3), 2018.* [[HTML]](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0368-5)
 
-## Preprint:
-  [1] **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. arXiv preprint arXiv:2405.15193, 2024. [[PDF]](https://arxiv.org/pdf/2405.15193) [[HTML]](https://arxiv.org/abs/2405.15193)
-
 
