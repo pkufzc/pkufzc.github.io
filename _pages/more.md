@@ -11,7 +11,7 @@ redirect_from:
 
 ## Fundings:
   - Research on Key Techniques for High-Performance Filters, supported by *China Postdoctoral Science Foundation (General Fund)*, 2024.06 - 2025.02, **Principal Investigator**.
-  - Construction and Validation of Prediction Models for Coronary Artery Heart Disease with Artificial Intelligence characterized by fundus images, supported by *Peking University (Clinical Medicine plus X-Youth Special Fund)*, 2024.04 - 2025.02, **Co-Principal Investigator**.
+  - Construction and Validation of Prediction Models for Coronary Artery Heart Disease with Artificial Intelligence Characterized by Fundus Images, supported by *Peking University (Clinical Medicine plus X-Youth Special Fund)*, 2024.04 - 2025.02, **Co-Principal Investigator**.
   - Research on Key Techniques for Optimizing Storage Performance of Large-Scale Key-Value Data, supported by *China Postdoctoral Science Foundation (Postdoctoral Fellowship Program)*, 2023.12 - 2025.02, **Principal Investigator**.
   - Research on Key Algorithms and Applications of New Pattern Detection for High-Speed Data Streams, supported by *China Postdoctoral Science Foundation (Special Fund)*, 2023.06 - 2025.02, **Principal Investigator**.
 
