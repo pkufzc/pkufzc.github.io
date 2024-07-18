@@ -10,6 +10,8 @@ redirect_from:
 <small> ^ represents co-first authors</small>
 
 ## 2024:
+  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal (CCF-A), 2024.* 
+  
   [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **<u>Zhuochen Fan</u>**, Zhiting Xiong, Tong Yang, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/VisionEmbedder.pdf)
   
   [15] Siyuan Dong^, **<u>Zhuochen Fan</u>^**, Tianyu Bai^, Tong Yang, Hanyu Xue, Peiqing Chen, Yuhan Wu. M4: A Framework for Per-Flow Quantile Estimation. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/M4.pdf)
