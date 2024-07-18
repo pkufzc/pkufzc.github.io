@@ -13,6 +13,7 @@ redirect_from:
 - Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 ## News: 
+- [07/2024]**(Paper)**: `REncoder` is accepted by **VLDBJ**.
 - [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
 - [04/2024]**(Funding)**: Win Clinical Medicine plus X-Youth Special Fund of Peking University.
 - [04/2024]**(Paper)**: `VisionEmbedder` is accepted by **ICDE'24**.
@@ -43,5 +44,6 @@ redirect_from:
 - **[ICDE 2023]** **Zhuochen Fan**, Jiarui Guo, Xiaodong Li, Tong Yang, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang. Finding Simplex Items in Data Streams. *2023 IEEE 39th International Conference on Data Engineering (ICDE).* `CCF-A`
 - **[ToN 2023]** **Zhuochen Fan**, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Sha Wang, Ruiwen Liu, Tong Yang, Yaofeng Tu, Steve Uhlig. PISketch: Finding Persistent and Infrequent Flows. *IEEE/ACM Transactions on Networking (ToN), 2023.* `CCF-A`
 - **[TKDE 2023]** **Zhuochen Fan**, Ruixin Wang, Yalun Cai, Ruwen Zhang, Tong Yang, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
+- **[VLDBJ 2024]** **Zhuochen Fan**, Bowen Ye, Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal, 2024.* `CCF-A`
 
 <p align='right'><i>Last updated: July 2024</i></p>
