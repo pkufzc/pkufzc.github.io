@@ -21,5 +21,5 @@ redirect_from:
       - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
 
 ## Work Experiences:
-  - School of Computer Science, Peking University, Boya (Erudition in English, awarded by PKU) Postdoc Fellow, 2023.02 - 2025.02.
+  - School of Computer Science, Peking University, Boya (Erudition in English, awarded by PKU) Postdoc Research Fellow, 2023.02 - 2025.02.
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern, 2021.08 - 2023.01.
