@@ -10,11 +10,11 @@ redirect_from:
 <small> ^ represents co-first authors</small>
 
 ## 2024:
-  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal (VLDBJ, CCF-A), 2024.* [[PDF]](../files/REncoder_VLDBJ.pdf)
+  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal (VLDBJ, CCF-A), 2024.* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
   
-  [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **<u>Zhuochen Fan</u>**, Zhiting Xiong, Tong Yang, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/VisionEmbedder.pdf)
+  [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **<u>Zhuochen Fan</u>**, Zhiting Xiong, Tong Yang, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/VisionEmbedder.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10597760)
   
-  [15] Siyuan Dong^, **<u>Zhuochen Fan</u>^**, Tianyu Bai^, Tong Yang, Hanyu Xue, Peiqing Chen, Yuhan Wu. M4: A Framework for Per-Flow Quantile Estimation. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/M4.pdf)
+  [15] Siyuan Dong^, **<u>Zhuochen Fan</u>^**, Tianyu Bai^, Tong Yang, Hanyu Xue, Peiqing Chen, Yuhan Wu. M4: A Framework for Per-Flow Quantile Estimation. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/M4.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10597853)
   
 ## 2023:
   [14] Zirui Liu^, Yikai Zhao^, **<u>Zhuochen Fan</u>^**, Tong Yang, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A), 2023.* [[PDF]](../files/BurstBalancer_TPDS.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10184046)
