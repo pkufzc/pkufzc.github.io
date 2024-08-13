@@ -13,6 +13,7 @@ redirect_from:
 - Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 ## News: 
+- [08/2024]**(Paper)**: `SteadySketch (journal version)` is accepted by **ToN**.
 - [07/2024]**(Paper)**: `REncoder` is accepted by **VLDBJ**.
 - [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
 - [04/2024]**(Funding)**: Win Clinical Medicine plus X-Youth Special Fund of Peking University.
@@ -45,5 +46,6 @@ redirect_from:
 - **[ToN 2023]** **Zhuochen Fan**, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Sha Wang, Ruiwen Liu, Tong Yang, Yaofeng Tu, Steve Uhlig. PISketch: Finding Persistent and Infrequent Flows. *IEEE/ACM Transactions on Networking (ToN), 2023.* `CCF-A`
 - **[TKDE 2023]** **Zhuochen Fan**, Ruixin Wang, Yalun Cai, Ruwen Zhang, Tong Yang, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
 - **[VLDBJ 2024]** **Zhuochen Fan**, Bowen Ye, Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal, 2024.* `CCF-A`
+- **[ToN 2024]** **Zhuochen Fan**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. IEEE/ACM Transactions on Networking, 2024. `CCF-A`
 
-<p align='right'><i>Last updated: July 2024</i></p>
+<p align='right'><i>Last updated: August 2024</i></p>
