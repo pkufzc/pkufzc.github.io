@@ -10,7 +10,7 @@ redirect_from:
 <small> ^ represents co-first authors</small>
 
 ## 2024:
-[18] **<u>Zhuochen Fan</u>^**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2024.* 
+[18] **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2024.* 
 
   [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal (VLDBJ, CCF-A), 2024.* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
   
