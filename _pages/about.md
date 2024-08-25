@@ -13,6 +13,7 @@ redirect_from:
 - Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 ## News: 
+- [08/2024]**(Funding)**: Win Young Scientists Fund of National Natural Science Foundation of China.
 - [08/2024]**(Paper)**: `SteadySketch (journal version)` is accepted by **ToN**.
 - [07/2024]**(Paper)**: `REncoder` is accepted by **VLDBJ**.
 - [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
