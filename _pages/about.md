@@ -13,6 +13,8 @@ redirect_from:
 - Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 ## News: 
+- [11/2024]**(Paper)**: `CuckooDuo` is accepted by **ICDE'25**.
+- [11/2024]**(Paper)**: `CuckooGraph` is accepted by **ICDE'25**.
 - [08/2024]**(Funding)**: Win Young Scientists Fund of National Natural Science Foundation of China.
 - [08/2024]**(Paper)**: `SteadySketch (journal version)` is accepted by **ToN**.
 - [07/2024]**(Paper)**: `REncoder` is accepted by **VLDBJ**.
@@ -48,5 +50,6 @@ redirect_from:
 - **[TKDE 2023]** **Zhuochen Fan**, Ruixin Wang, Yalun Cai, Ruwen Zhang, Tong Yang, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.* `CCF-A`
 - **[VLDBJ 2024]** **Zhuochen Fan**, Bowen Ye, Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal, 2024.* `CCF-A`
 - **[ToN 2024]** **Zhuochen Fan**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN), 2024.* `CCF-A`
+- **[ICDE 2025]** **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE).* `CCF-A`
 
-<p align='right'><i>Last updated: August 2024</i></p>
+<p align='right'><i>Last updated: November 2024</i></p>
