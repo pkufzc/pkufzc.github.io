@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Zhuochen Fan"
 title_separator          : "-"
 name                     : &name "Zhuochen Fan"
-description              : &description "Postdoc@PKU"
+description              : &description "Associate Researcher@PCL"
 url                      : https://pkufzc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pkufzc/pkufzc.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "fzc.png"
   name             : "Zhuochen Fan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc@PKU"
-  location         : "Beijing, China"
-  employer         : "Peking University"
+  bio              : "Associate Researcher@PCL"
+  location         : "Shenzhen, China"
+  employer         : "Pengcheng Laboratory"
   uri              : # URL
-  email            : "fanzc@pku.edu.cn" 
+  email            : "fanzhch@pcl.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
