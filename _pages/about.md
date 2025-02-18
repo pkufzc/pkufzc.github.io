@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
- I am a Boya post-doctoral research fellow at the [School of Computer Science](https://cs.pku.edu.cn/), Peking University (PKU), collaborated with Prof. [Tong Yang](https://yangtonghome.github.io/). I received my Ph.D. in computer science from Peking University, advised by Prof. Tong Yang.
-- Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, Machine Learning, LLM, and etc.
-- Email: **fanzc@pku.edu.cn** or **zhuochen.fan@gmail.com**
-- Address: Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
+My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking University (PKU)](https://www.pku.edu.cn/), where I also continued my postdoctoral research. Prof. [Tong Yang](https://yangtonghome.github.io/) supervised me both during my Ph.D. studies and postdoctoral period. Currently, I serve as an associate researcher at [Pengcheng Laboratory](https://www.pcl.ac.cn/).
+- Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, and etc.
+- Email: **fanzhch AT pcl.ac.cn** or **fanzc AT pku.edu.cn** or **zhuochen.fan AT gmail.com**
+- Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
 ## News: 
 - [11/2024]**(Paper)**: `CuckooDuo` is accepted by **ICDE'25**.
@@ -52,4 +52,4 @@ redirect_from:
 - **[ToN 2024]** **Zhuochen Fan**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN), 2024.* `CCF-A`
 - **[ICDE 2025]** **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE).* `CCF-A`
 
-<p align='right'><i>Last updated: November 2024</i></p>
+<p align='right'><i>Last updated: February 2025</i></p>
