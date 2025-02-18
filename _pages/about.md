@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking University (PKU)](https://www.pku.edu.cn/), where I also continued my postdoctoral research. Prof. [Tong Yang](https://yangtonghome.github.io/) supervised me both during my Ph.D. studies and postdoctoral period. Currently, I serve as an associate researcher at [Pengcheng Laboratory](https://www.pcl.ac.cn/).
+My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking University (PKU)](https://www.pku.edu.cn/), where I also continued my postdoctoral research. Prof. [Tong Yang](https://yangtonghome.github.io/) supervised me both during my Ph.D. studies and postdoctoral period. Currently, I serve as an associate researcher at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
 - Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, and etc.
 - Email: **fanzhch AT pcl.ac.cn** or **fanzc AT pku.edu.cn** or **zhuochen.fan AT gmail.com**
 - Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
