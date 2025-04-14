@@ -21,6 +21,7 @@ redirect_from:
   - **Reviewer:** 
       - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227)
+      - [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
       - [ACM Web Conference (WWW) 2025](https://www2025.thewebconf.org/)
       - [ACM KDD 2025](https://kdd2025.kdd.org/)
 
