@@ -26,6 +26,6 @@ redirect_from:
       - [ACM KDD 2025](https://kdd2025.kdd.org/)
 
 ## Work Experiences:
-  - Pengcheng Laboratory, 2025.02 - Now.
+  - [Smart Internet Group](https://smartinternet.group/), Department of Strategic and Advanced Interdisciplinary Research, Pengcheng Laboratory, Associate Researcher, 2025.02 - Now.
   - School of Computer Science, Peking University, Boya (Erudition in English, awarded by PKU) Postdoc Research Fellow, 2023.02 - 2025.02.
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern, 2021.08 - 2023.01.
