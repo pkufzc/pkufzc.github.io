@@ -13,6 +13,7 @@ My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking Un
 - Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
 ## News: 
+- [04/2025]**(Paper)**: `M4 (journal version)` is accepted by **TKDE**.
 - [11/2024]**(Paper)**: `CuckooDuo` is accepted by **ICDE'25**.
 - [11/2024]**(Paper)**: `CuckooGraph` is accepted by **ICDE'25**.
 - [08/2024]**(Funding)**: Win Young Scientists Fund of National Natural Science Foundation of China.
@@ -51,5 +52,6 @@ My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking Un
 - **[VLDBJ 2024]** **Zhuochen Fan**, Bowen Ye, Ziwei Wang, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal, 2024.* `CCF-A`
 - **[ToN 2024]** **Zhuochen Fan**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN), 2024.* `CCF-A`
 - **[ICDE 2025]** **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE).* `CCF-A`
+- **[TKDE 2025]** **Zhuochen Fan**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
 
-<p align='right'><i>Last updated: February 2025</i></p>
+<p align='right'><i>Last updated: April 2025</i></p>
