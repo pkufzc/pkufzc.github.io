@@ -9,6 +9,9 @@ redirect_from:
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 
+## 2025:
+  [21] **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
+
 ## 2024:
   [20] Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang\*, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>\***, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* 
   
