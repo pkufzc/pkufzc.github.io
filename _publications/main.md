@@ -21,7 +21,7 @@ redirect_from:
 
   [18] **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang\*, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2024.* [[PDF]](../files/SteadySketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10643483) 
 
-  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang\*, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *VLDB Journal (VLDBJ, CCF-A), 2024.* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
+  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang\*, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *The VLDB Journal (VLDBJ, CCF-A), 2024.* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
   
   [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **<u>Zhuochen Fan</u>**, Zhiting Xiong, Tong Yang\*, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/VisionEmbedder.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10597760)
   
