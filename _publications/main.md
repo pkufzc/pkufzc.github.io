@@ -10,6 +10,8 @@ redirect_from:
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 
 ## 2025:
+  [22] Zihao Wang, Qing Li\*, Guorui Xie, Dan Zhao, Kejun Li, **<u>Zhuochen Fan</u>**, Lianbo Ma, Yong Jiang. Minos: A Lightweight and Dynamic Defense against Traffic Analysis in Programmable Data Planes. *2025 USENIX Annual Technical Conference (USENIX ATC, CCF-A).*
+  
   [21] **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang\*, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
 
 ## 2024:
