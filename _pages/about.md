@@ -13,6 +13,7 @@ My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking Un
 - Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
 ## News: 
+- [04/2025]**(Paper)**: `WisePIFinder` is accepted by **IWQoS'25**.
 - [04/2025]**(Paper)**: `Minos` is accepted by **USENIX ATC'25**.
 - [04/2025]**(Paper)**: `M4 (journal version)` is accepted by **TKDE**.
 - [11/2024]**(Paper)**: `CuckooDuo` is accepted by **ICDE'25**.
