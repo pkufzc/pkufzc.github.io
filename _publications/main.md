@@ -19,7 +19,7 @@ redirect_from:
 ## 2024:
   [20] Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang\*, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>\***, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* 
   
-  [19] **<u>Zhuochen Fan</u>^**, Yalun Cai^, Zirui Liu^, Jiarui Guo, Xin Fan, Tong Yang\*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* 
+  [19] **<u>Zhuochen Fan</u>^**, Yalun Cai^, Zirui Liu^, Jiarui Guo, Xin Fan, Tong Yang\*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooGraph.pdf)
 
   [18] **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang\*, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2024.* [[PDF]](../files/SteadySketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10643483) 
 
