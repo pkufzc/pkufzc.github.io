@@ -34,7 +34,3 @@ redirect_from:
   - [Smart Internet Group](https://smartinternet.group/), Department of Strategic and Advanced Interdisciplinary Research, Pengcheng Laboratory, Associate Researcher, 2025.02 - Now.
   - School of Computer Science, Peking University, Boya (Erudition in English, awarded by PKU) Postdoc Research Fellow, 2023.02 - 2025.02.
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern, 2021.08 - 2023.01.
-
-## Education:
-  - Ph.D., [Peking University](https://english.pku.edu.cn/).
-  - B.E., [Chongqing University](https://english.cqu.edu.cn/).
