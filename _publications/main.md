@@ -14,14 +14,14 @@ redirect_from:
   
   [23] Zengxie Ma, Yao Xin, Ying Chen, **<u>Zhuochen Fan</u>**, Tong Li\*, Ning Hu, Qing Liao, Yi Zhao, Feng Zhang. WisePIFinder: Efficient and Accurate Detection of Persistent and Infrequent Flows. *2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS, CCF-B).*
 
-  [22] Zihao Wang, Qing Li\*, Guorui Xie, Dan Zhao, Kejun Li, **<u>Zhuochen Fan</u>**, Lianbo Ma, Yong Jiang\*. Minos: A Lightweight and Dynamic Defense against Traffic Analysis in Programmable Data Planes. *2025 USENIX Annual Technical Conference (USENIX ATC, CCF-A).*
+  [22] Zihao Wang, Qing Li\*, Guorui Xie, Dan Zhao, Kejun Li, **<u>Zhuochen Fan</u>**, Lianbo Ma, Yong Jiang\*. Minos: A Lightweight and Dynamic Defense against Traffic Analysis in Programmable Data Planes. *2025 USENIX Annual Technical Conference (USENIX ATC, CCF-A).* [[HTML]](https://www.usenix.org/conference/atc25/presentation/wang-zihao#:~:text=In%20this%20work%2C%20we%20present%20Minos%2C%20a%20lightweight,while%20providing%20both%20identity%20anonymity%20and%20traffic%20anonymity.)
   
-  [21] **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang\*, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
+  [21] **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang\*, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.* [[HTML]](https://ieeexplore.ieee.org/document/11015726)
 
 ## 2024:
-  [20] Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang\*, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>\***, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* 
+  [20] Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang\*, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>\***, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[HTML]](https://ieeexplore.ieee.org/document/11112927)
   
-  [19] **<u>Zhuochen Fan</u>^**, Yalun Cai^, Zirui Liu^, Jiarui Guo, Xin Fan, Tong Yang\*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooGraph.pdf)
+  [19] **<u>Zhuochen Fan</u>^**, Yalun Cai^, Zirui Liu^, Jiarui Guo, Xin Fan, Tong Yang\*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooGraph.pdf) [[HTML]](https://ieeexplore.ieee.org/abstract/document/11112841)
 
   [18] **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang\*, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2024.* [[PDF]](../files/SteadySketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10643483) 
 
