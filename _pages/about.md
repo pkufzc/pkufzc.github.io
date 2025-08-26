@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking University (PKU)](https://www.pku.edu.cn/), where I also continued my postdoctoral research. Prof. [Tong Yang](https://yangtonghome.github.io/) supervised me both during my Ph.D. studies and postdoctoral period. Currently, I serve as an associate researcher at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
+My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking University (PKU)](https://www.pku.edu.cn/), where I also continued my postdoctoral research. Prof. [Tong Yang](https://yangtonghome.github.io/) supervised me both during my Ph.D. studies and postdoctoral period. Currently, I serve as an associate researcher (and also a doctoral supervisor) at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
 - Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, and etc.
 - Email: **fanzhch AT pcl.ac.cn** or **fanzc AT pku.edu.cn** or **zhuochen.fan AT gmail.com**
 - Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
 ## News: 
+- [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
+- [04/2025]**(Funding)**:  Win General Fund from Department of Strategic and Advanced Interdisciplinary Research, Pengcheng Laboratory.
 - [04/2025]**(Paper)**: `WisePIFinder` is accepted by **IWQoS'25**.
 - [04/2025]**(Paper)**: `Minos` is accepted by **USENIX ATC'25**.
 - [04/2025]**(Paper)**: `M4 (journal version)` is accepted by **TKDE**.
@@ -55,5 +57,6 @@ My name is Zhuochen Fan. I received my Ph.D. in computer science from [Peking Un
 - **[ToN 2024]** **Zhuochen Fan**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN), 2024.* `CCF-A`
 - **[ICDE 2025]** **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE).* `CCF-A`
 - **[TKDE 2025]** **Zhuochen Fan**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
+- **[TKDE 2025]** **Zhuochen Fan**, Ruixin Wang, Zihan Jiang, Ruwen Zhang, Tong Yang, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
 
-<p align='right'><i>Last updated: April 2025</i></p>
+<p align='right'><i>Last updated: August 2025</i></p>
