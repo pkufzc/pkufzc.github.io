@@ -18,7 +18,7 @@ redirect_from:
   - Research on Key Algorithms and Applications of New Pattern Detection for High-Speed Data Streams, supported by *China Postdoctoral Science Foundation (Special Fund)*, 2023.06 - 2025.02, **Principal Investigator**. 【主持中国博士后科学基金第5批站前特别资助（全国资助400人）】
 
 ## Acdaemic Services:
-<small>I always look forward to serving as a reviewer, program committee, etc. for top-tier conferences/journals.</small>
+<small>I always look forward to serving as a reviewer, program committee, area chair, etc. for top-tier conferences/journals.</small>
   - **Program Committee:**
       - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
   - **Reviewer:** 
