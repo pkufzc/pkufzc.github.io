@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 My name is Zhuochen Fan. I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I serve as an associate researcher (and also a doctoral supervisor) at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
-- Research Area: New Data Structures & Algorithms in Network Measurement, Databases, Data Mining, and etc.
+- Research Area: New Data Structures, Algorithms & Systems in Network Measurement, Databases, Data Mining, and etc.
 - Email: **fanzhch AT pcl.ac.cn** or **fanzc AT pku.edu.cn** or **zhuochen.fan AT gmail.com**
 - Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
 ## News: 
 - [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
-- [04/2025]**(Funding)**:  Win General Fund from Department of Strategic and Advanced Interdisciplinary Research, Pengcheng Laboratory.
+- [04/2025]**(Funding)**: Win General Fund from Department of Strategic and Advanced Interdisciplinary Research of Pengcheng Laboratory.
 - [04/2025]**(Paper)**: `WisePIFinder` is accepted by **IWQoS'25**.
 - [04/2025]**(Paper)**: `Minos` is accepted by **USENIX ATC'25**.
 - [04/2025]**(Paper)**: `M4 (journal version)` is accepted by **TKDE**.
@@ -26,7 +26,7 @@ My name is Zhuochen Fan. I graduated from [Peking University (PKU)](https://www.
 - [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
 - [04/2024]**(Funding)**: Win Clinical Medicine plus X-Youth Special Fund of Peking University.
 - [04/2024]**(Paper)**: `VisionEmbedder` is accepted by **ICDE'24**.
-- [04/2024]**(Paper)**: `M4` is accepted by **ICDE'24**.
+- [04/2024]**(Paper)**: `M4 (conference version)` is accepted by **ICDE'24**.
 - [12/2023]**(Funding)**: Win Postdoctoral Fellowship Program of China Postdoctoral Science Foundation.
 - [07/2023]**(Funding)**: Win Special Fund of China Postdoctoral Science Foundation.
 - [07/2023]**(Paper)**: `BurstBalancer (journal version)` is accepted by **TPDS**.
