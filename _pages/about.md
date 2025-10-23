@@ -16,6 +16,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - 长期招收科研实习生（限大二/大三的优秀本科生），优秀者推免**清华大学深圳研究生院**和**北京大学**，欢迎同学们联系！
 
 ## News: 
+- [10/2025]**(Award)**: My doctoral dissertation win the Outstanding Doctoral Dissertation Award from the Chinese Institute of Electronics (Blockchain Branch)
 - [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
 - [04/2025]**(Funding)**: Win General Fund from Department of Strategic and Advanced Interdisciplinary Research of Pengcheng Laboratory.
 - [04/2025]**(Paper)**: `WisePIFinder` is accepted by **IWQoS'25**.
