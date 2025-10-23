@@ -9,7 +9,11 @@ redirect_from:
 
 My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I serve as an associate researcher (and also a doctoral supervisor) at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/). My research covers various aspects of computer networks, ranging from measurement, storage, and security to architecture, as well as exploring their connections with Large Language Models.
 
-我博士毕业于北京大学，并随后完成两年博士后研究；我目前是鹏城国家实验室的副研究员、博士生导师（“PCL-中山大学”和“PCL-清华大学深圳研究生院”联培专项的PCL博导）；我的研究涵盖计算机网络的多个分支，如测量、存储、安全、架构，并探索这些方向与大语言模型（LLMs）的深度融合。
+我博士毕业于北京大学，并随后完成两年博士后研究；我目前是鹏城国家实验室（PCL）的副研究员、博士生导师（“PCL-中山大学”和“PCL-清华大学深圳研究生院”联培专项的PCL博导）；我的研究涵盖计算机网络的多个分支，如测量、存储、安全、架构，同时探索这些方向与大模型的深度融合。
+
+## Note:
+- 现招收2026年秋季入学的“鹏城实验室-中山大学”联合培养博士研究生，招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1981174348974657537)，欢迎同学们联系！
+- 长期招收科研实习生（限大二/大三的优秀本科生），优秀者推免**清华大学深圳研究生院**和**北京大学**，欢迎同学们联系！
 
 ## News: 
 - [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
