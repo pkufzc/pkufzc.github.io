@@ -23,16 +23,16 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - [04/2025]**(Paper)**: `Minos` is accepted by **USENIX ATC'25**.
 - [04/2025]**(Paper)**: `M4 (journal version)` is accepted by **TKDE**.
 - [11/2024]**(Paper)**: `CuckooDuo` is accepted by **ICDE'25**.
-- [11/2024]**(Paper)**: `CuckooGraph` is accepted by **ICDE'25**.
+- [11/2024]**(Paper)**: `CuckooGraph (conference version)` is accepted by **ICDE'25**.
 - [08/2024]**(Funding)**: Win Young Scientists Fund of National Natural Science Foundation of China.
 - [08/2024]**(Paper)**: `SteadySketch (journal version)` is accepted by **ToN**.
 - [07/2024]**(Paper)**: `REncoder` is accepted by **VLDBJ**.
-- [06/2024]**(Funding)**: Win General Fund of China Postdoctoral Science Foundation.
+- [06/2024]**(Funding)**: Win General Program of China Postdoctoral Science Foundation.
 - [04/2024]**(Funding)**: Win Clinical Medicine plus X-Youth Special Fund of Peking University.
 - [04/2024]**(Paper)**: `VisionEmbedder` is accepted by **ICDE'24**.
 - [04/2024]**(Paper)**: `M4 (conference version)` is accepted by **ICDE'24**.
 - [12/2023]**(Funding)**: Win Postdoctoral Fellowship Program of China Postdoctoral Science Foundation.
-- [07/2023]**(Funding)**: Win Special Fund of China Postdoctoral Science Foundation.
+- [07/2023]**(Funding)**: Win Special Program of China Postdoctoral Science Foundation.
 - [07/2023]**(Paper)**: `BurstBalancer (journal version)` is accepted by **TPDS**.
 - [05/2023]**(Paper)**: `OneSketch` is accepted by **TKDE**.
 - [04/2023]**(Paper)**: `PISketch (journal version)` is accepted by **ToN**.
@@ -47,7 +47,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - [06/2022]**(Paper)**: `PISketch (conference version)` is accepted by **SIGCOMM FFSPIN'22**.
 - [06/2022]**(Paper)**: `SHE` is accepted by **ICPP'22**.
 - [12/2021]**(Paper)**: `IDCam` is accepted by **WCNC'22**.
-- [11/2021]**(Paper)**: `PeriodicSketch` is accepted by **ICDE'22**.
+- [11/2021]**(Paper)**: `PeriodicSketch (conference version)` is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
 - **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE).* `CCF-A`
@@ -67,4 +67,4 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - **Email:** fanzhch AT pcl.ac.cn, fanzc AT pku.edu.cn, zhuochen.fan AT gmail.com;
 - **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
-<p align='right'><i>Last updated: August 2025</i></p>
+<p align='right'><i>Last updated: October 2025</i></p>
