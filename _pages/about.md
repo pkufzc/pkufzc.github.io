@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhuochen Fan (中文名：樊卓宸). I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I serve as an associate researcher (and also a doctoral supervisor) at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
-- Research Area: New Data Structures, Algorithms & Systems in Network Measurement, Databases, Data Mining, and etc.
-- Email: **fanzhch AT pcl.ac.cn** or **fanzc AT pku.edu.cn** or **zhuochen.fan AT gmail.com**
-- Address: Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
+My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I serve as an associate researcher (and also a doctoral supervisor) at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/). My research covers various aspects of computer networks, ranging from measurement, storage, and security to architecture, as well as exploring their connections with Large Language Models.
+我博士毕业于北京大学，随后继续在本校进行了两年的博士后研究；我目前是鹏城国家实验室的副研究员、博士生导师（“PCL-中山大学”和“PCL-清华大学深圳研究生院”联培专项的PCL博导）；我的研究涵盖计算机网络的多个分支，如测量、存储、安全、架构，并探索这些方向与大语言模型（LLMs）的深度融合。
 
 ## News: 
 - [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
@@ -58,5 +56,9 @@ My name is Zhuochen Fan (中文名：樊卓宸). I graduated from [Peking Univer
 - **[ICDE 2025]** **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE).* `CCF-A`
 - **[TKDE 2025]** **Zhuochen Fan**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
 - **[TKDE 2025]** **Zhuochen Fan**, Ruixin Wang, Zihan Jiang, Ruwen Zhang, Tong Yang, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
+
+## Contact:
+- **Email:** fanzhch AT pcl.ac.cn, fanzc AT pku.edu.cn, zhuochen.fan AT gmail.com;
+- **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
 <p align='right'><i>Last updated: August 2025</i></p>
