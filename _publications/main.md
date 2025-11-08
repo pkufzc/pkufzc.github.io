@@ -10,7 +10,7 @@ redirect_from:
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 
 ## 2025:
-  [25] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A), 2026.*
+  [25] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*
   
   [24] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
   
