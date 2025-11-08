@@ -62,7 +62,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - **[ICDE 2025]** **Zhuochen Fan**, Yalun Cai, Zirui Liu, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE).* `CCF-A`
 - **[TKDE 2025]** **Zhuochen Fan**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
 - **[TKDE 2025]** **Zhuochen Fan**, Ruixin Wang, Zihan Jiang, Ruwen Zhang, Tong Yang, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025.* `CCF-A`
-- **[AAAI 2026]** Mengbo Wang (student), **Zhuochen Fan**, Dayu Wang, Guorui Xie, Qing Li, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *40th AAAI Conference on Artificial Intelligence (AAAI), 2026.* `CCF-A`
+- **[AAAI 2026]** Mengbo Wang (student), **Zhuochen Fan**, Dayu Wang, Guorui Xie, Qing Li, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI).* `CCF-A`
 
 ## Contact:
 - **Email:** fanzhch AT pcl.ac.cn, fanzc AT pku.edu.cn, zhuochen.fan AT gmail.com;
