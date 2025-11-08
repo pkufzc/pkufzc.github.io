@@ -18,7 +18,7 @@ redirect_from:
   - Research on Key Algorithms and Applications of New Pattern Detection for High-Speed Data Streams, supported by *China Postdoctoral Science Foundation (Special Program)*, 2023.06 - 2025.02, **Principal Investigator**. 【主持中国博士后科学基金第5批站前特别资助（全国资助400人）】
 
 ## Awards:
-- Outstanding Doctoral Dissertation Award, Chinese Institute of Electronics (Blockchain Branch)【入选中国电子学会（区块链分会）博士学位论文激励计划（总共5人）】
+- Outstanding Doctoral Dissertation Award, Chinese Institute of Electronics (Blockchain Branch)【入选中国电子学会（区块链分会）博士学位论文激励计划（总共2人）】
 
 ## Acdaemic Services:
 <small>I always look forward to serving as a reviewer, program committee, area chair, etc. for top-tier conferences/journals.</small>
