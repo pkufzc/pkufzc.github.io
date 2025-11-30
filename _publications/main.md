@@ -10,6 +10,8 @@ redirect_from:
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 
 ## 2025:
+  [27] Dong Wen, Tao Li, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).*
+  
   [26] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*
   
   [25] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*
