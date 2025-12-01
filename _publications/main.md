@@ -10,13 +10,15 @@ redirect_from:
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 
 ## 2025:
-  [27] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A), 2025.*
+  [28] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A), 2025.*
   
-  [26] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*
+  [27] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*
   
-  [25] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*
+  [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*
   
-  [24] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
+  [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
+
+  [24] Zeyu Luan, **<u>Zhuochen Fan</u>**, Xin Yu, Kejun Li, Qing Li\*, Yong Jiang. UniTE: Decoupling Traffic Engineering from Network Topologies with Unifying Framework. *2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS, CCF-B).*
   
   [23] Zengxie Ma, Yao Xin, Ying Chen, **<u>Zhuochen Fan</u>**, Tong Li\*, Ning Hu, Qing Liao, Yi Zhao, Feng Zhang. WisePIFinder: Efficient and Accurate Detection of Persistent and Infrequent Flows. *2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS, CCF-B).*
 
