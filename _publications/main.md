@@ -10,13 +10,13 @@ redirect_from:
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 
 ## 2025:
-  [28] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A), 2025.*
+  [28] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).*
   
   [27] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*
   
   [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*
   
-  [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.*
+  [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).*
 
   [24] Zeyu Luan, **<u>Zhuochen Fan</u>**, Xin Yu, Kejun Li, Qing Li\*, Yong Jiang. UniTE: Decoupling Traffic Engineering from Network Topologies with Unifying Framework. *2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS, CCF-B).*
   
@@ -24,40 +24,40 @@ redirect_from:
 
   [22] Zihao Wang, Qing Li\*, Guorui Xie, Dan Zhao, Kejun Li, **<u>Zhuochen Fan</u>**, Lianbo Ma, Yong Jiang\*. Minos: A Lightweight and Dynamic Defense against Traffic Analysis in Programmable Data Planes. *2025 USENIX Annual Technical Conference (USENIX ATC, CCF-A).* [[PDF]](../files/atc25-wang-zihao.pdf) [[HTML]](https://www.usenix.org/conference/atc25/presentation/wang-zihao#:~:text=In%20this%20work%2C%20we%20present%20Minos%2C%20a%20lightweight,while%20providing%20both%20identity%20anonymity%20and%20traffic%20anonymity.)
   
-  [21] **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang\*, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2025.* [[PDF]](../files/M4_TKDE.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11015726)
+  [21] **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang\*, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/M4_TKDE.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11015726)
 
 ## 2024:
   [20] Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang\*, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>\***, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooDuo_ICDE25_final.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11112927)
   
   [19] **<u>Zhuochen Fan</u>^**, Yalun Cai^, Zirui Liu^, Jiarui Guo, Xin Fan, Tong Yang\*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooGraph.pdf) [[HTML]](https://ieeexplore.ieee.org/abstract/document/11112841)
 
-  [18] **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang\*, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2024.* [[PDF]](../files/SteadySketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10643483) 
+  [18] **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang\*, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A).* [[PDF]](../files/SteadySketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10643483) 
 
-  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang\*, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *The VLDB Journal (VLDBJ, CCF-A), 2024.* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
+  [17] **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang\*, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *The VLDB Journal (VLDBJ, CCF-A).* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
   
   [16] Yuhan Wu, Feiyu Wang, Yifan Zhu, **<u>Zhuochen Fan</u>**, Zhiting Xiong, Tong Yang\*, Bin Cui. VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/VisionEmbedder.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10597760)
   
   [15] Siyuan Dong^, **<u>Zhuochen Fan</u>^**, Tianyu Bai^, Tong Yang\*, Hanyu Xue, Peiqing Chen, Yuhan Wu. M4: A Framework for Per-Flow Quantile Estimation. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/M4.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10597853)
   
 ## 2023:
-  [14] Zirui Liu^, Yikai Zhao^, **<u>Zhuochen Fan</u>^**, Tong Yang\*, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A), 2023.* [[PDF]](../files/BurstBalancer_TPDS.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10184046)
+  [14] Zirui Liu^, Yikai Zhao^, **<u>Zhuochen Fan</u>^**, Tong Yang\*, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A).* [[PDF]](../files/BurstBalancer_TPDS.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10184046)
 
-  [13] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Yalun Cai^, Ruwen Zhang, Tong Yang\*, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.* [[PDF]](../files/OneSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10129883)
+  [13] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Yalun Cai^, Ruwen Zhang, Tong Yang\*, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/OneSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10129883)
 
-  [12] **<u>Zhuochen Fan</u>^**, Zhoujing Hu^, Yuhan Wu^, Jiarui Guo, Sha Wang, Ruiwen Liu, Tong Yang\*, Yaofeng Tu, Steve Uhlig. PISketch: Finding Persistent and Infrequent Flows. *IEEE/ACM Transactions on Networking (ToN, CCF-A), 2023.* [[PDF]](../files/PISketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10123074)
+  [12] **<u>Zhuochen Fan</u>^**, Zhoujing Hu^, Yuhan Wu^, Jiarui Guo, Sha Wang, Ruiwen Liu, Tong Yang\*, Yaofeng Tu, Steve Uhlig. PISketch: Finding Persistent and Infrequent Flows. *IEEE/ACM Transactions on Networking (ToN, CCF-A).* [[PDF]](../files/PISketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10123074)
 
   [11] Xiaodong Li^, **<u>Zhuochen Fan</u>^**, Haoyu Li, Zheng Zhong, Jiarui Guo, Sheng Long, Tong Yang\*, Bin Cui. SteadySketch: Finding Steady Flows in Data Streams. *2023 IEEE/ACM 31st International Symposium on Quality of Service (IWQoS, CCF-B).* [[PDF]](../files/SteadySketch_IWQoS.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10188743)
 
   [10] **<u>Zhuochen Fan</u>^**, Jiarui Guo^, Xiaodong Li^, Tong Yang\*, Yikai Zhao, Yuhan Wu, Bin Cui, Yanwei Xu, Steve Uhlig, Gong Zhang. Finding Simplex Items in Data Streams. *2023 IEEE 39th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/X-Sketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10184714)
 
-  [9] **<u>Zhuochen Fan</u>**, Yanwei Xu, Peng Liu, Xiaodong Li, Ruwen Zhang, Tong Yang\*, Wenfei Wu, Yuqing Li, Li Chen, Gong Zhang. SSA: Microsecond Level Clock Synchronization Based on Machine Learning for IoT Devices. *IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1), 2023.* [[PDF]](../files/SSA.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10042489)
+  [9] **<u>Zhuochen Fan</u>**, Yanwei Xu, Peng Liu, Xiaodong Li, Ruwen Zhang, Tong Yang\*, Wenfei Wu, Yuqing Li, Li Chen, Gong Zhang. SSA: Microsecond Level Clock Synchronization Based on Machine Learning for IoT Devices. *IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1).* [[PDF]](../files/SSA.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10042489)
 
 ## 2022:
-  [8] **<u>Zhuochen Fan</u>^**, Yubo Zhang^, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang\*, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.* [[PDF]](../files/HoppingSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9944968)
+  [8] **<u>Zhuochen Fan</u>^**, Yubo Zhang^, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang\*, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/HoppingSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9944968)
 
   [7] **<u>Zhuochen Fan</u>^**, Xiaodong Li^, Yanwei Xu\*, Yuqing Li, Tong Yang\*, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A).* [[PDF]]((../files/CAT-Sync.pdf)) [[HTML]](https://ieeexplore.ieee.org/document/9984784)
 
-  [6] **<u>Zhuochen Fan</u>**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang\*, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A), 2023.* [[PDF]](../files/BloomFilter-FP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9863640)
+  [6] **<u>Zhuochen Fan</u>**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang\*, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/BloomFilter-FP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9863640)
 
   [5] Zirui Liu^, Yikai Zhao^, **<u>Zhuochen Fan</u>^**, Tong Yang\*, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *2022 IEEE 30th International Conference on Network Protocols (ICNP, CCF-B).* [[PDF]](../files/BurstBalancer_ICNP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9940372)
 
@@ -71,10 +71,10 @@ redirect_from:
 
 ## 2019 and before:
 
-Mo Wang, Xin’an Wang\*, **<u>Zhuochen Fan</u>**, Fei Chen, Sixu Zhang, Chen Peng. Research on Feature Extraction Algorithm for Plantar Pressure Image and Gait Analysis in Stroke Patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C), 2019.* [[HTML]](https://doi.org/10.1016/j.jvcir.2018.12.017)
+Mo Wang, Xin’an Wang\*, **<u>Zhuochen Fan</u>**, Fei Chen, Sixu Zhang, Chen Peng. Research on Feature Extraction Algorithm for Plantar Pressure Image and Gait Analysis in Stroke Patients. *Journal of Visual Communication and Image Representation (JVCIR, CCF-C).* [[HTML]](https://doi.org/10.1016/j.jvcir.2018.12.017)
 
-Mo Wang, Xin’an Wang\*, Chen Peng, Sixu Zhang, **<u>Zhuochen Fan</u>**, Zhong Liu. Research on EMG Segmentation Algorithm and Walking Analysis Based on Signal Envelope and Integral Electrical Signal. *Photonic Network Communications (JCR Q3), 2019.* [[HTML]](https://link.springer.com/article/10.1007/s11107-018-0809-1)
+Mo Wang, Xin’an Wang\*, Chen Peng, Sixu Zhang, **<u>Zhuochen Fan</u>**, Zhong Liu. Research on EMG Segmentation Algorithm and Walking Analysis Based on Signal Envelope and Integral Electrical Signal. *Photonic Network Communications (JCR Q3).* [[HTML]](https://link.springer.com/article/10.1007/s11107-018-0809-1)
 
-Mo Wang, Xin’an Wang\*, **<u>Zhuochen Fan</u>**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D Foot Shape Feature Parameter Measurement Algorithm Based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3), 2018.* [[HTML]](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0368-5)
+Mo Wang, Xin’an Wang\*, **<u>Zhuochen Fan</u>**, Sixu Zhang, Chen Peng, Zhong Liu. A 3D Foot Shape Feature Parameter Measurement Algorithm Based on Kinect2. *EURASIP Journal on Image and Video Processing (JCR Q3).* [[HTML]](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0368-5)
 
 
