@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I serve as an associate researcher/professor (and also a doctoral supervisor) at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/). My research covers various aspects of computer networks, ranging from measurement, storage, and security to architecture, as well as exploring their connections with Large Language Models. I have published ~20 papers in top-tier CCF-A conferences/journals as first author/corresponding author.
 
-我博士毕业于北京大学，并随后完成两年博士后研究；我目前是鹏城国家实验室（PCL）的副研究员、博士生导师（“PCL-中山大学”和“PCL-清华大学深圳研究生院”联培专项）；我的研究涵盖计算机网络的多个分支，如测量、存储、安全、架构，同时探索这些方向与大模型的深度融合。以一作/通讯发表/录用近20篇CCF-A类顶会/顶刊。
+我博士毕业于北京大学，并随后完成两年博士后研究；我目前是鹏城国家实验室（PCL）的副研究员、博士生导师（“PCL-中山大学”、“PCL-北京邮电大学”和“PCL-清华大学深圳研究生院”联培专项）；我的研究涵盖计算机网络的多个分支，如测量、存储、安全、架构，同时探索这些方向与大模型的深度融合。以一作/通讯发表/录用近20篇CCF-A类顶会/顶刊。
 
 ## Note:
 - 现招收2026年秋季入学的“鹏城国家实验室-北京邮电大学”联合培养博士研究生（由北邮颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1996105379041251330)，欢迎同学们联系！
