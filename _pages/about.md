@@ -17,6 +17,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - 长期招收科研实习生（限大二/大三的优秀本科生），优秀者推免**清华大学深圳研究生院**和**北京大学**，欢迎同学们联系！
 
 ## News: 
+- [12/2025]**(Paper)**: `HeatCache` is accepted by **INFOCOM'26**.
 - [11/2025]**(Paper)**: `DP4C` is accepted by **TCAD**.
 - [11/2025]**(Paper)**: `PBSketch` is accepted by **SIGKDD'26**.
 - [11/2025]**(Paper)**: `RatioSketch` is accepted by **AAAI'26**.
@@ -73,4 +74,4 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - **Email:** fanzhch AT pcl.ac.cn, fanzc AT pku.edu.cn, zhuochen.fan AT gmail.com;
 - **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
-<p align='right'><i>Last updated: November 2025</i></p>
+<p align='right'><i>Last updated: December 2025</i></p>
