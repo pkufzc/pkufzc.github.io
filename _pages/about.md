@@ -23,7 +23,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - [11/2025]**(Paper)**: `RatioSketch` is accepted by **AAAI'26**.
 - [10/2025]**(Award)**: Win the Outstanding Doctoral Dissertation Award from the Chinese Institute of Electronics (Blockchain Branch).
 - [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
-- [04/2025]**(Funding)**: Win the Strategic Research Project of PCL.
+- [04/2025]**(Funding)**: Win the the Basic and Frontier Research Project of PCL.
 - [04/2025]**(Paper)**: `UniTE` is accepted by **IWQoS'25**.
 - [04/2025]**(Paper)**: `WisePIFinder` is accepted by **IWQoS'25**.
 - [04/2025]**(Paper)**: `Minos` is accepted by **USENIX ATC'25**.
