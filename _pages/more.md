@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Fundings:
-  - Research on Key Techniques for Real-Time High-Accuracy Dynamic Measurement for Computing and Networking Integration, supported by *The Strategic Research Project of PCL*, 2025.05 - 2027.04, **Principal Investigator**. 【主持鹏城国家实验室战略研究项目】
+  - Research on Key Techniques for Real-Time High-Accuracy Dynamic Measurement for Computing and Networking Integration, supported by *The Basic and Frontier Research Project of PCL.*, 2025.05 - 2027.04, **Principal Investigator**. 【主持鹏城国家实验室基础前沿项目】
   - Research on Key Techniques of Disaggregated Key-Value Store, supported by *National Natural Science Foundation of China (Young Scientists Fund)*, 2025.01 - 2027.12, **Principal Investigator**. 【主持国家自然科学基金青年基金项目】
   - Research on Key Techniques for High-Performance Filters, supported by *China Postdoctoral Science Foundation (General Program)*, 2024.06 - 2025.02, **Principal Investigator**. 【主持中国博士后科学基金第75批面上资助】
   - Construction and Validation of Prediction Models for Coronary Artery Heart Disease with Artificial Intelligence Characterized by Fundus Images, supported by *Peking University (Clinical Medicine plus X-Youth Special Fund)*, 2024.04 - 2025.02, **Co-Principal Investigator**. 【联合主持北京大学2024年度临床医学+X青年专项拟资助】
