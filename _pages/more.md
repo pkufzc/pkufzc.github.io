@@ -32,7 +32,8 @@ redirect_from:
       - [Frontiers of Computer Science (FCS)](https://journal.hep.com.cn/fcs/EN/2095-2228/home.shtml)
       - [ACM KDD 2025](https://kdd2025.kdd.org/)
       - [ACM Web Conference (WWW) 2025](https://www2025.thewebconf.org/)
-- 中国计算机学会（CCF）网络与系统安全专业委员会**执行委员**
+- 中国计算机学会（CCF）网络与系统安全专业委员会执行委员
+- 中国通信学会（CIC）高级会员
 
 ## Work Experiences:
   - [Smart Internet Group](https://smartinternet.group/), Department of Strategic and Advanced Interdisciplinary Research, Pengcheng Laboratory, Associate Researcher, 2025.02 - Now.
