@@ -8,6 +8,8 @@ redirect_from:
   - /publications.html
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
+## 2026:
+  [30] Yaxuan Wang, Yifan Xiang, Ke Li, Xun Zhang, Bowen Ye, **<u>Zhuochen Fan</u>**, Fei Wei, Tong Yang\*. Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems. *2026 IEEE International Conference on Robotics and Automation (ICRA, CCF-B).*
 
 ## 2025:
   [29] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang. HeatCache: A Heat-Predictive TCAM Rule Caching Framework with Dependency-Aware Optimization. *2026 IEEE International Conference on Computer Communications (INFOCOM, CCF-A).*
