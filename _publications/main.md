@@ -9,7 +9,7 @@ redirect_from:
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 ## 2026:
-  [31] Dong Wen, Zhongpei Liu, Tong Yang, Tianyun Li, Yanshu Wang, Tao Li, **<u>Zhuochen Fan</u>**, Qing Li, Zhigang Sun. KaleidoScope: A Co-processor for Neural-network-driven Intelligent Data Plane. *IEEE Transactions on Computers (TC, CCF-A).*
+  [31] Dong Wen, Zhongpei Liu, Tong Yang\*, Tianyun Li, Yanshu Wang, Tao Li\*, **<u>Zhuochen Fan</u>**, Qing Li, Zhigang Sun. KaleidoScope: A Co-processor for Neural-network-driven Intelligent Data Plane. *IEEE Transactions on Computers (TC, CCF-A).*
   
   [30] Yaxuan Wang, Yifan Xiang, Ke Li, Xun Zhang, Bowen Ye, **<u>Zhuochen Fan</u>**, Fei Wei, Tong Yang\*. Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems. *2026 IEEE International Conference on Robotics and Automation (ICRA, CCF-B).*
 
