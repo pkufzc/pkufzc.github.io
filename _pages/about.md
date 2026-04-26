@@ -14,9 +14,10 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 ## Note:
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-北京邮电大学”联合培养博士研究生（由北邮颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1996105379041251330)，欢迎同学们联系！
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-中山大学”联合培养博士研究生（由中大颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1981174348974657537)，欢迎同学们联系！
-- 长期招收科研实习生（限大二/大三的优秀本科生），优秀者推免**清华大学深圳研究生院**和**北京大学**，欢迎同学们联系！
+- 长期招收科研实习生（本科生/硕士生），表现优异者：本科生可推免**清华深研院/北大本部**，硕士生可推荐**北邮/中大**普博名额，欢迎联系！
 
 ## News: 
+- [04/2026]**(Paper)**: `KaleidoScope` is accepted by **TC**.
 - [01/2026]**(Paper)**: `TZPP` is accepted by **ICRA'26**.
 - [12/2025]**(Paper)**: `HeatCache` is accepted by **INFOCOM'26**.
 - [11/2025]**(Paper)**: `DP4C` is accepted by **TCAD**.
@@ -72,7 +73,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE).* `CCF-A`
 
 ## Contact:
-- **Email:** fanzhch AT pcl.ac.cn, fanzc AT pku.edu.cn, zhuochen.fan AT gmail.com;
+- **Email:** fanzc AT pku.edu.cn, fanzhch AT pcl.ac.cn, zhuochen.fan AT gmail.com;
 - **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
-<p align='right'><i>Last updated: January 2026</i></p>
+<p align='right'><i>Last updated: April 2026</i></p>
