@@ -9,6 +9,8 @@ redirect_from:
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 ## 2026:
+  [32] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang. AT-Cache: Towards Traffic-Aware Adaptive TCAM Rule Caching Framework. *The 46th IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B).*
+  
   [31] Dong Wen, Zhongpei Liu, Tong Yang\*, Tianyun Li, Yanshu Wang, Tao Li\*, **<u>Zhuochen Fan</u>**, Qing Li, Zhigang Sun. KaleidoScope: A Co-processor for Neural-network-driven Intelligent Data Plane. *IEEE Transactions on Computers (TC, CCF-A).*
   
   [30] Yaxuan Wang, Yifan Xiang, Ke Li, Xun Zhang, Bowen Ye, **<u>Zhuochen Fan</u>**, Fei Wei, Tong Yang\*. Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems. *2026 IEEE International Conference on Robotics and Automation (ICRA, CCF-B).*
@@ -18,9 +20,9 @@ redirect_from:
   
   [28] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).*
   
-  [27] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*[[PDF]](../files/PBSketch_SIGKDD'26.pdf)
+  [27] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*[[PDF]](../files/PBSketch_SIGKDD'26.pdf)[[HTML]](https://dlnext.acm.org/doi/10.1145/3770854.3780188)
   
-  [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*[[PDF]](../files/RatioSketch_AAAI'26.pdf)
+  [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*[[PDF]](../files/RatioSketch_AAAI'26.pdf)[[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
   
   [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).*
 
