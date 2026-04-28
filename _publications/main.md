@@ -24,7 +24,7 @@ redirect_from:
   
   [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).* [[PDF]](../files/RatioSketch_AAAI'26.pdf) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
   
-  [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/RatioSketch_AAAI'26.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11154063)
+  [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/SandwichSketch_TKDE.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11154063)
 
   [24] Zeyu Luan, **<u>Zhuochen Fan</u>**, Xin Yu, Kejun Li, Qing Li\*, Yong Jiang. UniTE: Decoupling Traffic Engineering from Network Topologies with Unifying Framework. *2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS, CCF-B).*
   
