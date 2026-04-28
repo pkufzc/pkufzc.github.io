@@ -20,9 +20,9 @@ redirect_from:
   
   [28] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).*
   
-  [27] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*[[PDF]](../files/PBSketch_SIGKDD'26.pdf)[[HTML]](https://dlnext.acm.org/doi/10.1145/3770854.3780188)
+  [27] **<u>Zhuochen Fan</u>^**, Zhongxian Liang^, Zirui Liu^, Dayu Wang, Dong Wen, Wenjun Li\*, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).*[[PDF]](../files/PBSketch_SIGKDD'26.pdf) [[HTML]](https://dlnext.acm.org/doi/10.1145/3770854.3780188)
   
-  [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*[[PDF]](../files/RatioSketch_AAAI'26.pdf)[[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
+  [26] Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).*[[PDF]](../files/RatioSketch_AAAI'26.pdf) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
   
   [25] **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).*
 
