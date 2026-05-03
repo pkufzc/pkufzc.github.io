@@ -17,6 +17,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - 长期招收**科研实习生（本科生/硕士生）**，表现优异者：本科生可推免**清华深研院/北大本部**，硕士生可提前锁定**北邮/中大**普博名额，欢迎联系！
 
 ## News: 
+- [04/2026]**(Paper)**: `POC-FPC` is accepted by **IWQoS'26**.
 - [04/2026]**(Paper)**: `AT-Cache` is accepted by **ICDCS'26**.
 - [04/2026]**(Paper)**: `KaleidoScope` is accepted by **TC**.
 - [01/2026]**(Paper)**: `TZPP` is accepted by **ICRA'26**.
