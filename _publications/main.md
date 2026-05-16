@@ -11,7 +11,7 @@ redirect_from:
 ## 2026:
   [35] Yuemeng Xu, Haoran Chen, Jiarui Guo, Mingwei Cui, Qiuheng Yin, Cheng Dong, Peng He, Chenmin Sun, Yangyujia Wang, Daxiang Kang, Xian Wu, Yang Gao, Lirong Lai, Kai Wang, **<u>Zhuochen Fan</u>**, Tong Yang\*, Hongyu Wu. Gryphon: Scaling Hyperscale Multi-Tenant Gateways Beyond the Petabit-Era via DPU-Augmented Hierarchical Co-Offloading. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, CCF-A).*
   
-  [34] Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>**, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).*
+  [34] Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>\***, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li\*. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).*
   
   [33] Xujing Li, **<u>Zhuochen Fan</u>**, Yuchao Zhang\*, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).*
   
