@@ -15,14 +15,14 @@ redirect_from:
   
   [33] Xujing Li^, **<u>Zhuochen Fan</u>^**, Yuchao Zhang\*, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).*
   
-  [32] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang. AT-Cache: Towards Traffic-Aware Adaptive TCAM Rule Caching Framework. *The 46th IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B).*
+  [32] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang\*. AT-Cache: Towards Traffic-Aware Adaptive TCAM Rule Caching Framework. *The 46th IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B).*
   
   [31] Dong Wen, Zhongpei Liu, Tong Yang\*, Tianyun Li, Yanshu Wang, Tao Li\*, **<u>Zhuochen Fan</u>**, Qing Li, Zhigang Sun. KaleidoScope: A Co-processor for Neural-network-driven Intelligent Data Plane. *IEEE Transactions on Computers (TC, CCF-A).*
   
   [30] Yaxuan Wang, Yifan Xiang, Ke Li, Xun Zhang, Bowen Ye, **<u>Zhuochen Fan</u>**, Fei Wei, Tong Yang\*. Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems. *2026 IEEE International Conference on Robotics and Automation (ICRA, CCF-B).*
 
 ## 2025:
-  [29] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang. HeatCache: A Heat-Predictive TCAM Rule Caching Framework with Dependency-Aware Optimization. *2026 IEEE International Conference on Computer Communications (INFOCOM, CCF-A).*
+  [29] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang\*. HeatCache: A Heat-Predictive TCAM Rule Caching Framework with Dependency-Aware Optimization. *2026 IEEE International Conference on Computer Communications (INFOCOM, CCF-A).*
   
   [28] Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).* [[PDF]](../files/DP4C_TCAD.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11278838)
   
