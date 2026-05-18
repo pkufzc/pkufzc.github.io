@@ -13,7 +13,7 @@ redirect_from:
   
   [34] Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>\***, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li\*. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).*
   
-  [33] Xujing Li, **<u>Zhuochen Fan</u>**, Yuchao Zhang\*, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).*
+  [33] Xujing Li^, **<u>Zhuochen Fan</u>^**, Yuchao Zhang\*, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).*
   
   [32] Lei Guo, Zeyu Luan, Qing Li\*, **<u>Zhuochen Fan</u>**, Bo Tang. AT-Cache: Towards Traffic-Aware Adaptive TCAM Rule Caching Framework. *The 46th IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B).*
   
