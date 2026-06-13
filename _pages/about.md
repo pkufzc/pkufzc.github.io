@@ -64,7 +64,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - [11/2021]**(Paper)**: `PeriodicSketch (conference version)` is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
-- **[SIGKDD 2027]** Jiarui Guo, Feiyu Wang, **Zhuochen Fan**, Tong Yang, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD).* `CCF-A`
+- **[SIGMOD 2027]** Jiarui Guo, Feiyu Wang, **Zhuochen Fan**, Tong Yang, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD).* `CCF-A`
 - **[SIGKDD 2026]** **Zhuochen Fan**, Zhongxian Liang, Zirui Liu, Dayu Wang, Dong Wen, Wenjun Li, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD).* `CCF-A`
 - **[AAAI 2026]** Mengbo Wang (student), **Zhuochen Fan**, Dayu Wang, Guorui Xie, Qing Li, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI).* `CCF-A`
 - **[TKDE 2025]** **Zhuochen Fan**, Ruixin Wang, Zihan Jiang, Ruwen Zhang, Tong Yang, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE).* `CCF-A`
