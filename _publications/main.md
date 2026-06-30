@@ -9,11 +9,13 @@ redirect_from:
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
 ## 2026:
-  [37] Ao Li^ (student), **<u>Zhuochen Fan</u>^**, Kaicheng Yang^, Zeyu Luan, Yong Jiang\*, Kejun Li, Qing Li\*. TrainSketch: Collision-Protected Switch Telemetry for Distributed LLM Training Flows. *The 3rd ACM SIGCOMM Workshop on Networks for AI Computing (NAIC).*
+  [38] Kaicheng Yang, Zongwei Lv, Peijun Huang, Kaitai Zhang, Qiuheng Yin, Yaoming Li, Feiyu Wang, **<u>Zhuochen Fan</u>**, Yikai Zhao, Chen Sun, Xia Zhu, Tong Yang\*. OmniPath Ping: Active Network Measurement In the Era of Packet Spraying. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
+  
+  [37] Ao Li^ (student), **<u>Zhuochen Fan</u>^**, Kaicheng Yang^, Zeyu Luan, Yong Jiang\*, Kejun Li, Qing Li\*. TrainSketch: Collision-Protected Switch Telemetry for Distributed LLM Training Flows. *The 3rd ACM SIGCOMM Workshop on Networks for AI Computing (SIGCOMM NAIC).*
   
   [36] Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>\***, Tong Yang\*, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).*
   
-  [35] Yuemeng Xu, Haoran Chen, Jiarui Guo, Mingwei Cui, Qiuheng Yin, Cheng Dong, Peng He, Chenmin Sun, Yangyujia Wang, Daxiang Kang, Xian Wu, Yang Gao, Lirong Lai, Kai Wang, **<u>Zhuochen Fan</u>**, Tong Yang\*, Hongyu Wu. Gryphon: Scaling Hyperscale Multi-Tenant Gateways Beyond the Petabit-Era via DPU-Augmented Hierarchical Co-Offloading. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, CCF-A).*
+  [35] Yuemeng Xu, Haoran Chen, Jiarui Guo, Mingwei Cui, Qiuheng Yin, Cheng Dong, Peng He, Chenmin Sun, Yangyujia Wang, Daxiang Kang, Xian Wu, Yang Gao, Lirong Lai, Kai Wang, **<u>Zhuochen Fan</u>**, Tong Yang\*, Hongyu Wu. Gryphon: Scaling Hyperscale Multi-Tenant Gateways Beyond the Petabit-Era via DPU-Augmented Hierarchical Co-Offloading. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
   
   [34] Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>\***, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li\*. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).*
   
