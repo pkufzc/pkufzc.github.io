@@ -8,6 +8,9 @@ redirect_from:
   - /publications.html
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
+## 2027:
+* Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>\***, Tong Yang\*, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
+
 ## 2026:
   [38] Kaicheng Yang, Zongwei Lv, Peijun Huang, Kaitai Zhang, Qiuheng Yin, Yaoming Li, Feiyu Wang, **<u>Zhuochen Fan</u>**, Yikai Zhao, Chen Sun, Xia Zhu, Tong Yang\*. OmniPath Ping: Active Network Measurement In the Era of Packet Spraying. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
   
