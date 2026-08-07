@@ -20,23 +20,22 @@ redirect_from:
 ## Awards:
 - Outstanding Doctoral Dissertation Award, Chinese Institute of Electronics (Blockchain Branch)【入选中国电子学会（区块链分会）博士学位论文激励计划（总共2人）】
 
-## Acdaemic Services:
-<small>I always look forward to serving as a reviewer, program committee, area chair, etc. for top-tier conferences/journals.</small>
+## Academic Services:
+<small>I have been invited to serve as a reviewer and PC member for top-tier conferences and journals, and remain open to future invitations for similar or expanded roles, including area chair, senior PC member, and editorial positions.</small>
   - **Program Committee:**
-      - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
+      - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
   - **Reviewer:** 
+      - [ACM KDD 2026](https://kdd2026.kdd.org/)
       - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
       - [SCIENCE CHINA Information Sciences (SCIS)](https://link.springer.com/journal/11432)
+      - [IEEE Transactions on Cloud Computing (TCC)](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6245519)
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227)
       - [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
       - [Frontiers of Computer Science (FCS)](https://journal.hep.com.cn/fcs/EN/2095-2228/home.shtml)
-      - [ACM KDD 2025](https://kdd2025.kdd.org/)
-      - [ACM Web Conference (WWW) 2025](https://www2025.thewebconf.org/)
-      - [ACM KDD 2026](https://kdd2026.kdd.org/)
 - 中国计算机学会（CCF）网络与系统安全专业委员会执行委员
 - 中国通信学会（CIC）高级会员
 
 ## Work Experiences:
-  - [Smart Internet Group](https://smartinternet.group/), Department of Strategic and Advanced Interdisciplinary Research, Pengcheng Laboratory, Associate Professor, 2025.02 - Now.
+  - [Smart Internet Group](https://smartinternet.group/), Pengcheng Laboratory, Associate Professor, 2025.02 - Now.
   - School of Computer Science, Peking University, Boya (Erudition in English, awarded by PKU) Postdoc Research Fellow, 2023.02 - 2025.02.
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern, 2021.08 - 2023.01.
