@@ -12,7 +12,7 @@ redirect_from:
 * Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>\***, Tong Yang\*, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
 
 ## 2026:
-* Boyan Wang, Weijie Feng, Jinyang Huang, Dan Guo, Zhi Liu, Zhuochen Fan, Zhiyong Cheng. SparkAlign: A Star-Hopping Heuristic for Efficient Unsupervised Plain Graph Alignment. *The 35th International ACM Conference on Knowledge and Information Management (CIKM, CCF-B).*
+* Boyan Wang, Weijie Feng, Jinyang Huang, Dan Guo, Zhi Liu, **<u>Zhuochen Fan</u>**, Zhiyong Cheng. SparkAlign: A Star-Hopping Heuristic for Efficient Unsupervised Plain Graph Alignment. *The 35th International ACM Conference on Knowledge and Information Management (CIKM, CCF-B).*
 
 * Kaicheng Yang, Zongwei Lv, Peijun Huang, Kaitai Zhang, Qiuheng Yin, Yaoming Li, Feiyu Wang, **<u>Zhuochen Fan</u>**, Yikai Zhao, Chen Sun, Xia Zhu, Tong Yang\*. OmniPath Ping: Active Network Measurement In the Era of Packet Spraying. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
   
