@@ -8,10 +8,10 @@ redirect_from:
   - /publications.html
 ---
 <small> ^ and * represent co-first authors and corresponding author(s) respectively </small>
-## 2027:
+## 2027 (1):
 * Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>\***, Tong Yang\*, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
 
-## 2026:
+## 2026 (12):
 * Boyan Wang, Weijie Feng, Jinyang Huang, Dan Guo, Zhi Liu, **<u>Zhuochen Fan</u>**, Zhiyong Cheng. SparkAlign: A Star-Hopping Heuristic for Efficient Unsupervised Plain Graph Alignment. *The 35th International ACM Conference on Knowledge and Information Management (CIKM, CCF-B).*
 
 * Kaicheng Yang, Zongwei Lv, Peijun Huang, Kaitai Zhang, Qiuheng Yin, Yaoming Li, Feiyu Wang, **<u>Zhuochen Fan</u>**, Yikai Zhao, Chen Sun, Xia Zhu, Tong Yang\*. OmniPath Ping: Active Network Measurement In the Era of Packet Spraying. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
@@ -36,7 +36,7 @@ redirect_from:
   
 * Mengbo Wang (student), **<u>Zhuochen Fan</u>\***, Dayu Wang, Guorui Xie, Qing Li\*, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).* [[PDF]](../files/RatioSketch_AAAI'26.pdf) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
 
-## 2025:
+## 2025 (8):
 * Dong Wen, Tao Li\*, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).* [[PDF]](../files/DP4C_TCAD.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11278838)
 
 * **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Zihan Jiang^, Ruwen Zhang, Tong Yang\*, Sha Wang, Yuhan Wu, Ruijie Miao, Kaicheng Yang, Bui Cui. SandwichSketch: A More Accurate Sketch for Frequent Object Mining in Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/SandwichSketch_TKDE.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11154063)
@@ -53,7 +53,7 @@ redirect_from:
   
 * **<u>Zhuochen Fan</u>^**, Yalun Cai^, Zirui Liu^, Jiarui Guo, Xin Fan, Tong Yang\*, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooGraph.pdf) [[HTML]](https://ieeexplore.ieee.org/abstract/document/11112841)
 
-## 2024:
+## 2024 (4):
 * **<u>Zhuochen Fan</u>**, Xiangyuan Wang, Xiaodong Li, Jiarui Guo, Wenrui Liu, Haoyu Li, Sheng Long, Zheng Zhong, Tong Yang\*, Xuebin Chen, Bin Cui. SteadySketch: A High-Performance Algorithm for Finding Steady Flows in Data Streams. *IEEE/ACM Transactions on Networking (ToN, CCF-A).* [[PDF]](../files/SteadySketch_ToN.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10643483) 
 
 * **<u>Zhuochen Fan</u>^**, Bowen Ye^, Ziwei Wang^, Zheng Zhong, Jiarui Guo, Yuhan Wu, Haoyu Li, Tong Yang\*, Yaofeng Tu, Zirui Liu, Bin Cui. Enabling Space-Time Efficient Range Queries with REncoder. *The VLDB Journal (VLDBJ, CCF-A).* [[PDF]](../files/REncoder_VLDBJ.pdf) [[HTML]](https://link.springer.com/article/10.1007/s00778-024-00873-w?utm_source=rct_congratemailt)
@@ -62,7 +62,7 @@ redirect_from:
   
 * Siyuan Dong^, **<u>Zhuochen Fan</u>^**, Tianyu Bai^, Tong Yang\*, Hanyu Xue, Peiqing Chen, Yuhan Wu. M4: A Framework for Per-Flow Quantile Estimation. *2024 IEEE 40th International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/M4.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10597853)
   
-## 2023:
+## 2023 (6):
 * Zirui Liu^, Yikai Zhao^, **<u>Zhuochen Fan</u>^**, Tong Yang\*, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *IEEE Transactions on Parallel and Distributed Systems (TPDS, CCF-A).* [[PDF]](../files/BurstBalancer_TPDS.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10184046)
 
 * **<u>Zhuochen Fan</u>^**, Ruixin Wang^, Yalun Cai^, Ruwen Zhang, Tong Yang\*, Yuhan Wu, Bin Cui, Steve Uhlig. OneSketch: A Generic and Accurate Sketch for Data Streams. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/OneSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10129883)
@@ -75,7 +75,7 @@ redirect_from:
 
 * **<u>Zhuochen Fan</u>**, Yanwei Xu, Peng Liu, Xiaodong Li, Ruwen Zhang, Tong Yang\*, Wenfei Wu, Yuqing Li, Li Chen, Gong Zhang. SSA: Microsecond Level Clock Synchronization Based on Machine Learning for IoT Devices. *IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1).* [[PDF]](../files/SSA.pdf) [[HTML]](https://ieeexplore.ieee.org/document/10042489)
 
-## 2022:
+## 2022 (8):
 * **<u>Zhuochen Fan</u>^**, Yubo Zhang^, Siyuan Dong, Yi Zhou, Fangyi Liu, Tong Yang\*, Steve Uhlig, Bin Cui. HoppingSketch: More Accurate Temporal Membership Query and Frequency Query. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/HoppingSketch.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9944968)
 
 * **<u>Zhuochen Fan</u>^**, Xiaodong Li^, Yanwei Xu\*, Yuqing Li, Tong Yang\*, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A).* [[PDF]]((../files/CAT-Sync.pdf)) [[HTML]](https://ieeexplore.ieee.org/document/9984784)
