@@ -23,7 +23,7 @@ redirect_from:
 ## Academic Services:
 <small>I have been invited to serve as a reviewer and PC member for top-tier conferences and journals, and remain open to future invitations for similar or expanded roles, including area chair, senior PC member, and editorial positions.</small>
   - **Program Committee:**
-      - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/)
+      - [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/), [WSDM 2027](https://wsdm-conference.org/2027/)
   - **Reviewer:** 
       - [ACM KDD 2026](https://kdd2026.kdd.org/)
       - [ACM Computing Surveys](https://dl.acm.org/journal/csur)
