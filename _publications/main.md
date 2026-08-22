@@ -22,7 +22,7 @@ redirect_from:
   
 * Yuemeng Xu, Haoran Chen, Jiarui Guo, Mingwei Cui, Qiuheng Yin, Cheng Dong, Peng He, Chenmin Sun, Yangyujia Wang, Daxiang Kang, Xian Wu, Yang Gao, Lirong Lai, Kai Wang, **<u>Zhuochen Fan</u>**, Tong Yang, Hongyu Wu. Gryphon: Scaling Hyperscale Multi-Tenant Gateways Beyond the Petabit-Era via DPU-Augmented Hierarchical Co-Offloading. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
   
-* Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>†**, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li†. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).* [[PDF]](../files/UTFormer.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11602110)
+* Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li<sup>✉</sup>. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).* [[PDF]](../files/UTFormer.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11602110)
   
 * Xujing Li\*, **<u>Zhuochen Fan</u>\***, Yuchao Zhang, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).* [[PDF]](../files/POC-FPC.pdf)
   
@@ -36,7 +36,7 @@ redirect_from:
 
 * **<u>Zhuochen Fan</u>\***, Zhongxian Liang\*, Zirui Liu\*, Dayu Wang, Dong Wen, Wenjun Li, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD, Top #1 Conference in Data Mining, CCF-A).* [[PDF]](../files/PBSketch_SIGKDD'26.pdf) [[HTML]](https://dlnext.acm.org/doi/10.1145/3770854.3780188)
   
-* Mengbo Wang (student), **<u>Zhuochen Fan</u>†**, Dayu Wang, Guorui Xie, Qing Li†, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).* [[PDF]](../files/RatioSketch_AAAI'26.pdf) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
+* Mengbo Wang (student), **<u>Zhuochen Fan</u>**<sup>✉</sup>, Dayu Wang, Guorui Xie, Qing Li<sup>✉</sup>, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI, CCF-A).* [[PDF]](../files/RatioSketch_AAAI'26.pdf) [[HTML]](https://ojs.aaai.org/index.php/AAAI/article/view/39844)
 
 ## 2025 (8):
 * Dong Wen, Tao Li, Wenwen Fu, Chenglong Li, **<u>Zhuochen Fan</u>**, Hui Yang, Chao Zhuo, Lun Li, Zhiting Xiong, Junnan Li. DP4C: A SoC Architecture for NN-driven Network Functions with the Intelligent Plane. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, CCF-A).* [[PDF]](../files/DP4C_TCAD.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11278838)
@@ -51,7 +51,7 @@ redirect_from:
   
 * **<u>Zhuochen Fan</u>**, Yalun Cai, Siyuan Dong, Qiuheng Yin, Tianyu Bai, Hanyu Xue, Peiqing Chen, Yuhan Wu, Tong Yang, Bin Cui. Per-Flow Quantile Estimation using M4 Framework. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/M4_TKDE.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11015726)
 
-* Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang†, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>†**, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooDuo_ICDE25_final.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11112927)
+* Zirui Liu, Xian Niu, Wei Zhou, Yisen Hong, Zhouran Shi, Tong Yang<sup>✉</sup>, Yuchao Zhang, Yuhan Wu, Yikai Zhao, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Bin Cui. Extendible RDMA-based Remote Memory KV Store with Dynamic Perfect Hashing Index. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooDuo_ICDE25_final.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11112927)
   
 * **<u>Zhuochen Fan</u>\***, Yalun Cai\*, Zirui Liu\*, Jiarui Guo, Xin Fan, Tong Yang, Bin Cui. CuckooGraph: A Scalable and Space-Time Efficient Data Structure for Large-Scale Dynamic Graphs. *2025 IEEE 41st International Conference on Data Engineering (ICDE, CCF-A).* [[PDF]](../files/CuckooGraph.pdf) [[HTML]](https://ieeexplore.ieee.org/abstract/document/11112841)
 
