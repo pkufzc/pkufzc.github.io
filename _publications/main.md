@@ -82,7 +82,7 @@ redirect_from:
 
 * **<u>Zhuochen Fan</u>\***, Xiaodong Li\*, Yanwei Xu, Yuqing Li, Tong Yang, Steve Uhlig. Work-in-Progress: A Novel Clock Synchronization System for Large-Scale Clusters. *2022 IEEE Real-Time Systems Symposium (RTSS, CCF-A).* [[PDF]]((../files/CAT-Sync.pdf)) [[HTML]](https://ieeexplore.ieee.org/document/9984784)
 
-* **<u>Zhuochen Fan</u>\***, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/BloomFilter-FP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9863640)
+* **<u>Zhuochen Fan</u>**, Gang Wen, Zhipeng Huang, Yang Zhou, Qiaobin Fu, Tong Yang, Alex X. Liu, Bin Cui. On the Evolutionary of Bloom Filter False Positives - An Information Theoretical Approach to Optimizing Bloom Filter Parameters. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF-A).* [[PDF]](../files/BloomFilter-FP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9863640)
 
 * Zirui Liu\*, Yikai Zhao\*, **<u>Zhuochen Fan</u>\***, Tong Yang, Xiaodong Li, Ruwen Zhang, Kaicheng Yang, Zheng Zhong, Yi Huang, Cong Liu, Jing Hu, Gaogang Xie, Bin Cui. BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic. *2022 IEEE 30th International Conference on Network Protocols (ICNP, CCF-B).* [[PDF]](../files/BurstBalancer_ICNP.pdf) [[HTML]](https://ieeexplore.ieee.org/document/9940372)
 
