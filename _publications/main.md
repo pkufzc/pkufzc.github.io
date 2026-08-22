@@ -9,7 +9,7 @@ redirect_from:
 ---
 <small> * and † represent co-first authors and corresponding author(s) respectively </small>
 ## 2027 (1):
-* Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>\***, Tong Yang\*, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
+* Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>\†**, Tong Yang†, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
 
 ## 2026 (13):
 * Mengbo Wang*, Zhuochen Fan*, Dayu Wang*, Zirui Liu, Peiyuan Zong, Guorui Xie, Zeyu Luan, Qing Li†, Yong Jiang†. AnchorKV: Training-Free KV Cache Compression via Joint Coverage Diversity and Semantic Importance Scoring. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP, CCF-B).*
