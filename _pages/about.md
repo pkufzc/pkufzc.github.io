@@ -12,8 +12,8 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 我博士毕业于北京大学，并随后完成两年博士后研究，导师是[杨仝副教授](https://yangtonghome.github.io/)；我目前是鹏城国家实验室（PCL）副研究员、博士生导师（“PCL-北京邮电大学”、“PCL-中山大学”和“PCL-清华大学深圳研究生院”联培专项）；其中，PCL-北京邮电大学和PCL-中山大学联培项目的合作导师分别为北邮计算机学院[张宇超教授](https://teacher.bupt.edu.cn/yczhang/zh_CN/index.htm)和中大计算机学院[沈明华副教授](https://cse.sysu.edu.cn/teacher/ShenMinghua)。我的研究前期以面向大规模数据处理的高效数据结构与算法为核心，应用覆盖网络测量、存储与可编程网络；近期在此基础上演进至AI/LLM与网络的深度交汇——既探索以AI/LLM赋能网络系统（AI/LLM for Network），也致力于为AI/LLM负载构建高效的网络、系统与安全底座（Network/System/Security for AI/LLM），即AI基础设施（AI infra）。我以一作/通讯发表/录用近20篇CCF-A类顶会/顶刊。
 
 ## Note:
-- 【招生中】现招收2027年秋季入学的“鹏城国家实验室-北京邮电大学”和“鹏城国家实验室-中山大学”联合培养博士研究生（分别由北邮和中大颁发学位及毕业证书），可报名7月份的夏令营提前了解，相关信息请点击[这里](https://mp.weixin.qq.com/s/9CWrI4ZAsc7kbcRRyPJxMw)，欢迎同学们联系！
-- 长期招收**科研实习生（本科生/硕士生）**，表现优异者：本科生可推免**清华深研院/北大本部**，硕士生可提前锁定**北邮/中大**普博名额，欢迎同学们联系！
+- 【招生中】现招收2027年秋季入学的“鹏城国家实验室-北京邮电大学”和“鹏城国家实验室-中山大学”联合培养博士研究生（分别由北邮和中大颁发学位及毕业证书），直博/普博均可，欢迎同学们联系！
+- 长期招收**科研实习生（本科生/硕士生）**，表现优异者：本科生可推免**清华/北大/北邮/中大**，硕士生可提前锁定**北邮/中大**普博名额，欢迎同学们联系！
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-北京邮电大学”联合培养博士研究生（由北邮颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1996105379041251330)，欢迎同学们联系！
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-中山大学”联合培养博士研究生（由中大颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1981174348974657537)，欢迎同学们联系！
 
@@ -87,4 +87,4 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - **Email:** fanzc AT pku.edu.cn, fanzhch AT pcl.ac.cn, zhuochen.fan AT gmail.com;
 - **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
-<p align='right'><i>Last updated: June 2026</i></p>
+<p align='right'><i>Last updated: August 2026</i></p>
