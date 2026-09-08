@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I am an associate professor and a doctoral supervisor at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/). For the PCL–BUPT and PCL–SYSU joint PhD programs, I co-supervise students jointly with [Prof. Yuchao Zhang (BUPT)](https://teacher.bupt.edu.cn/yczhang/zh_CN/index.htm) and [Prof. Minghua Shen (SYSU)](https://cse.sysu.edu.cn/teacher/ShenMinghua), respectively. My research initially centered on efficient data structures and algorithms for large-scale data processing, with applications in network measurement, storage, and programmable networks. More recently, it has evolved into the deep intersection of AI/LLM and networking—leveraging AI/LLM to enhance network systems (AI/LLM for Network), while also building efficient network, system, and security foundations for AI/LLM workloads (Network/System/Security for AI/LLM), collectively referred to as AI infrastructure (AI infra). I have published ~20 papers in top-tier CCF-A conferences/journals as first author/corresponding author. 
+My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking University (PKU)](https://www.pku.edu.cn/) with a Ph.D. in Computer Science and continued my postdoctoral research there, both under the supervision of Prof. [Tong Yang](https://yangtonghome.github.io/). Currently, I am an associate professor and a doctoral supervisor at [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/). For the PCL–BUPT and PCL–SYSU joint PhD programs, I co-supervise students jointly with [Prof. Yuchao Zhang (BUPT)](https://teacher.bupt.edu.cn/yczhang/zh_CN/index.htm) and [Prof. Minghua Shen (SYSU)](https://cse.sysu.edu.cn/teacher/ShenMinghua), respectively. My research initially centered on efficient data structures and algorithms for large-scale data processing, with applications in network measurement, storage, and programmable networks. More recently, it has evolved into the deep intersection of AI/LLM and networking—leveraging AI/LLM to enhance network systems (AI/LLM for Network), while also building efficient network, system, and security foundations for AI/LLM workloads (Network/System/Security for AI/LLM), collectively referred to as AI infrastructure (AI infra). I have published 20 papers in top-tier CCF-A conferences/journals as first author/corresponding author. 
 
 我博士毕业于北京大学，并随后完成两年博士后研究，导师是[杨仝副教授](https://yangtonghome.github.io/)；我目前是鹏城国家实验室（PCL）副研究员、博士生导师（“PCL-北京邮电大学”、“PCL-中山大学”和“PCL-清华大学深圳研究生院”联培专项）；其中，PCL-北京邮电大学和PCL-中山大学联培项目的合作导师分别为北邮计算机学院[张宇超教授](https://teacher.bupt.edu.cn/yczhang/zh_CN/index.htm)和中大计算机学院[沈明华副教授](https://cse.sysu.edu.cn/teacher/ShenMinghua)。我的研究前期以面向大规模数据处理的高效数据结构与算法为核心，应用覆盖网络测量、存储与可编程网络；近期在此基础上演进至AI/LLM与网络的深度交汇——既探索以AI/LLM赋能网络系统（AI/LLM for Network），也致力于为AI/LLM负载构建高效的网络、系统与安全底座（Network/System/Security for AI/LLM），即AI基础设施（AI infra）。我以一作/通讯发表/录用近20篇CCF-A类顶会/顶刊。
 
@@ -18,6 +18,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-中山大学”联合培养博士研究生（由中大颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1981174348974657537)，欢迎同学们联系！
 
 ## News: 
+- [09/2026]**(Paper)**: `Crane` is accepted by **SIGMOD'27**.
 - [08/2026]**(Paper)**: `AnchorKV` is accepted by **EMNLP'26**.
 - [08/2026]**(Paper)**: `SparkAlign` is accepted by **CIKM'26**.
 - [06/2026]**(Paper)**: `OOP` is accepted by **SIGCOMM'26**.
@@ -68,6 +69,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - [11/2021]**(Paper)**: `PeriodicSketch (conference version)` is accepted by **ICDE'22**.
 
 ## Selected Publications: ([Full Publications](/publications/))
+- **[SIGMOD 2027]** Boyan Wang (student), **Zhuochen Fan**, Dayu Wang, Fangcheng Fu, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang. Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD).* `CCF-A`
 - **[SIGMOD 2027]** Jiarui Guo, Feiyu Wang, **Zhuochen Fan**, Tong Yang, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD).* `CCF-A`
 - **[SIGKDD 2026]** **Zhuochen Fan**, Zhongxian Liang, Zirui Liu, Dayu Wang, Dong Wen, Wenjun Li, Tong Yang, Yuzhou Liu, Weizhe Zhang. PBSketch: Finding Periodic Burst Items in Data Streams. *2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD).* `CCF-A`
 - **[AAAI 2026]** Mengbo Wang (student), **Zhuochen Fan**, Dayu Wang, Guorui Xie, Qing Li, Zeyu Luan, Yong Jiang, Tong Yang, Mingwei Xu. RatioSketch: Towards More Accurate Frequency Estimation in Data Streams via a Lightweight Neural Network. *2026 40th AAAI Conference on Artificial Intelligence (AAAI).* `CCF-A`
@@ -87,4 +89,4 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - **Email:** fanzc AT pku.edu.cn, fanzhch AT pcl.ac.cn, zhuochen.fan AT gmail.com;
 - **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
 
-<p align='right'><i>Last updated: August 2026</i></p>
+<p align='right'><i>Last updated: September 2026</i></p>
