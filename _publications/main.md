@@ -9,7 +9,7 @@ redirect_from:
 ---
 <small> * and <sup>✉</sup> represent co-first authors and corresponding author(s) respectively </small>
 ## 2027 (2):
-* Boyan Wang (student), **<u>Zhuochen Fan</u>**<sup>✉</sup>, Dayu Wang, Fangcheng Fu, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang. Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).*
+* Boyan Wang\* (student), **<u>Zhuochen Fan</u>\***<sup>✉</sup>, Dayu Wang, Fangcheng Fu, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang. Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).*
 
 * Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Tong Yang<sup>✉</sup>, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
 
