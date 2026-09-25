@@ -18,6 +18,7 @@ My name is Zhuochen Fan (樊卓宸in Chinese). I graduated from [Peking Universi
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-中山大学”联合培养博士研究生（由中大颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1981174348974657537)，欢迎同学们联系！
 
 ## News: 
+- [09/2026]**(Paper)**: `ChRes-DM` is accepted by **NeurIPS'26**.
 - [09/2026]**(Paper)**: `Prometheus` is accepted by **EuroSys'27**.
 - [09/2026]**(Paper)**: `Crane` is accepted by **SIGMOD'27**.
 - [08/2026]**(Paper)**: `AnchorKV` is accepted by **EMNLP'26**.
