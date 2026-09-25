@@ -15,7 +15,9 @@ redirect_from:
 
 * Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Tong Yang<sup>✉</sup>, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
 
-## 2026 (13):
+## 2026 (14):
+* Qinshan Zhang, Shipeng Guo, Xuantai Wu, Bin Chen<sup>✉</sup>, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Yong Jiang, Shu-Tao Xia, Qing Li. From Generation to Restoration: Residual Diffusion for Neural Channel Decoding. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS, One of the "Big Three" AI Conferences, CCF-A).*
+
 * Mengbo Wang\* (student), **<u>Zhuochen Fan</u>\***, Dayu Wang\*, Zirui Liu, Peiyuan Zong, Guorui Xie, Zeyu Luan, Qing Li, Yong Jiang. AnchorKV: Training-Free KV Cache Compression via Joint Coverage Diversity and Semantic Importance Scoring. *The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP, CCF-B).* [[PDF]](../files/AnchorKV_EMNLP'26.pdf)
 
 * Boyan Wang, Weijie Feng, Jinyang Huang, Dan Guo, Zhi Liu, **<u>Zhuochen Fan</u>**, Zhiyong Cheng. SparkAlign: A Star-Hopping Heuristic for Efficient Unsupervised Plain Graph Alignment. *The 35th International ACM Conference on Knowledge and Information Management (CIKM, CCF-B).*
