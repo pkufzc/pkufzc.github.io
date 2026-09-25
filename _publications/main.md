@@ -9,7 +9,7 @@ redirect_from:
 ---
 <small> * and <sup>✉</sup> represent co-first authors and corresponding author(s) respectively </small>
 ## 2027 (3):
-* Chao Liu (student), **<u>Zhuochen Fan</u>**<sup>✉</sup>, Dong Wen, Gareth Tyson, Peiyuan Zong, Zeyu Luan, Guorui Xie, Yong Jiang, Mingwei Xu, Qing Li<sup>✉</sup>. Prometheus: A Heterogeneous Collaborative System for High-Throughput Encrypted Traffic Analysis. *2027 European Conference on Computer Systems (EuroSys, One of the “Big Three” Systems Conferences, alongside OSDI and SOSP, CCF-A).*
+* Chao Liu (student), **<u>Zhuochen Fan</u>**<sup>✉</sup>, Dong Wen, Gareth Tyson, Peiyuan Zong, Zeyu Luan, Guorui Xie, Yong Jiang, Mingwei Xu, Qing Li<sup>✉</sup>. Prometheus: A Heterogeneous Collaborative System for High-Throughput Encrypted Traffic Analysis. *2027 European Conference on Computer Systems (EuroSys, One of the "Big Three" Systems Conferences, alongside OSDI and SOSP, CCF-A).*
 
 * Boyan Wang\* (student), **<u>Zhuochen Fan</u>\***<sup>✉</sup>, Dayu Wang, Fangcheng Fu, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang. Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).*
 
