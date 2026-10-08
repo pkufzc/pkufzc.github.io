@@ -9,11 +9,11 @@ redirect_from:
 ---
 <small> * and <sup>✉</sup> represent co-first authors and corresponding author(s) respectively </small>
 ## 2027 (3):
-* Chao Liu (student), **<u>Zhuochen Fan</u>**<sup>✉</sup>, Dong Wen, Gareth Tyson, Peiyuan Zong, Zeyu Luan, Guorui Xie, Yong Jiang, Mingwei Xu, Qing Li<sup>✉</sup>. Prometheus: A Heterogeneous Collaborative System for High-Throughput Encrypted Traffic Analysis. *2027 European Conference on Computer Systems (EuroSys, One of the "Big Three" Systems Conferences, alongside OSDI and SOSP, CCF-A).*
+* Chao Liu (student), **<u>Zhuochen Fan</u>**<sup>✉</sup>, Dong Wen, Gareth Tyson, Peiyuan Zong, Zeyu Luan, Guorui Xie, Yong Jiang, Mingwei Xu, Qing Li<sup>✉</sup>. Prometheus: A Heterogeneous Collaborative System for High-Throughput Encrypted Traffic Analysis. *2027 European Conference on Computer Systems (EuroSys, One of the "Big Three" Systems Conferences, alongside OSDI and SOSP, CCF-A).* [[PDF]](../files/Prometheus_EuroSys'27.pdf)
 
-* Boyan Wang\* (student), **<u>Zhuochen Fan</u>\***<sup>✉</sup>, Dayu Wang, Fangcheng Fu, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang. Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).*
+* Boyan Wang\* (student), **<u>Zhuochen Fan</u>\***<sup>✉</sup>, Dayu Wang, Fangcheng Fu, Jiarui Guo, Zeyu Luan, Lei Zou, Qing Li, Tong Yang. Crane: An Accurate and Scalable Neural Sketch for Graph Stream Summarization. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/Crane_SIGMOD'27.pdf)
 
-* Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Tong Yang<sup>✉</sup>, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf)
+* Jiarui Guo, Feiyu Wang, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Tong Yang<sup>✉</sup>, Xiaolin Wang. Near-Optimal Per-Key Streaming Quantile Estimation. *2027 ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD, Top #1 Conference in Databases, CCF-A).* [[PDF]](../files/KLL-Polymer.pdf) [[HTML]](https://dl.acm.org/doi/10.1145/3837118)
 
 ## 2026 (14):
 * Qinshan Zhang (student), Shipeng Guo, Xuantai Wu, Bin Chen<sup>✉</sup>, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Yong Jiang, Shu-Tao Xia, Qing Li. From Generation to Restoration: Residual Diffusion for Neural Channel Decoding. *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS, One of the "Big Three" AI Conferences, CCF-A).*
@@ -22,15 +22,15 @@ redirect_from:
 
 * Boyan Wang, Weijie Feng, Jinyang Huang, Dan Guo, Zhi Liu, **<u>Zhuochen Fan</u>**, Zhiyong Cheng. SparkAlign: A Star-Hopping Heuristic for Efficient Unsupervised Plain Graph Alignment. *The 35th International ACM Conference on Knowledge and Information Management (CIKM, CCF-B).*
 
-* Kaicheng Yang, Zongwei Lv, Peijun Huang, Kaitai Zhang, Qiuheng Yin, Yaoming Li, Feiyu Wang, **<u>Zhuochen Fan</u>**, Yikai Zhao, Chen Sun, Xia Zhu, Tong Yang. OmniPath Ping: Active Network Measurement In the Era of Packet Spraying. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
+* Kaicheng Yang, Zongwei Lv, Peijun Huang, Kaitai Zhang, Qiuheng Yin, Yaoming Li, Feiyu Wang, **<u>Zhuochen Fan</u>**, Yikai Zhao, Chen Sun, Xia Zhu, Tong Yang. OmniPath Ping: Active Network Measurement In the Era of Packet Spraying. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).* [[HTML]](https://dl.acm.org/doi/10.1145/3789240.3829105)
   
-* Ao Li\* (student), **<u>Zhuochen Fan</u>\***, Kaicheng Yang\*, Zeyu Luan, Yong Jiang, Kejun Li, Qing Li. TrainSketch: Collision-Protected Switch Telemetry for Distributed LLM Training Flows. *The 3rd ACM SIGCOMM Workshop on Networks for AI Computing (SIGCOMM NAIC).*
+* Ao Li\* (student), **<u>Zhuochen Fan</u>\***, Kaicheng Yang\*, Zeyu Luan, Yong Jiang, Kejun Li, Qing Li. TrainSketch: Collision-Protected Switch Telemetry for Distributed LLM Training Flows. *The 3rd ACM SIGCOMM Workshop on Networks for AI Computing (SIGCOMM NAIC).* [[HTML]](https://dl.acm.org/doi/10.1145/3789240.3828746)
   
-* Yuemeng Xu, Haoran Chen, Jiarui Guo, Mingwei Cui, Qiuheng Yin, Cheng Dong, Peng He, Chenmin Sun, Yangyujia Wang, Daxiang Kang, Xian Wu, Yang Gao, Lirong Lai, Kai Wang, **<u>Zhuochen Fan</u>**, Tong Yang, Hongyu Wu. Gryphon: Scaling Hyperscale Multi-Tenant Gateways Beyond the Petabit-Era via DPU-Augmented Hierarchical Co-Offloading. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).*
+* Yuemeng Xu, Haoran Chen, Jiarui Guo, Mingwei Cui, Qiuheng Yin, Cheng Dong, Peng He, Chenmin Sun, Yangyujia Wang, Daxiang Kang, Xian Wu, Yang Gao, Lirong Lai, Kai Wang, **<u>Zhuochen Fan</u>**, Tong Yang, Hongyu Wu. Gryphon: Scaling Hyperscale Multi-Tenant Gateways Beyond the Petabit-Era via DPU-Augmented Hierarchical Co-Offloading. *The 40th ACM Special Interest Group on Data Communication (SIGCOMM, Top #1 Conference in Computer Networks, CCF-A).* [[HTML]](https://dl.acm.org/doi/10.1145/3789240.3829119)
   
 * Dong Wen, Tianyun Li, **<u>Zhuochen Fan</u>**<sup>✉</sup>, Qing Li, Jie Li, Fa Zhu, Chenglong Li, Athanasios V. Vasilakos, Tao Li<sup>✉</sup>. UTFormer: An Ultra-lightweight Transformer for Traffic Classification. *IEEE Transactions on Information Forensics and Security (TIFS, CCF-A).* [[PDF]](../files/UTFormer.pdf) [[HTML]](https://ieeexplore.ieee.org/document/11602110)
   
-* Xujing Li\*, **<u>Zhuochen Fan</u>\***, Yuchao Zhang, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).* [[PDF]](../files/POC-FPC.pdf)
+* Xujing Li\*, **<u>Zhuochen Fan</u>\***, Yuchao Zhang, Yi Wang. Few-Packet Traffic Classification under Dynamic Network Conditions. *The 34th IEEE/ACM International Symposium on Quality of Service (IWQoS, CCF-B).* [[PDF]](../files/POC-FPC.pdf) [[HTML]](https://ieeexplore.ieee.org/abstract/document/11661262)
   
 * Lei Guo, Zeyu Luan, Qing Li, **<u>Zhuochen Fan</u>**, Bo Tang. AT-Cache: Towards Traffic-Aware Adaptive TCAM Rule Caching Framework. *The 46th IEEE International Conference on Distributed Computing Systems (ICDCS, CCF-B).*
   
