@@ -91,7 +91,5 @@ My name is Zhuochen Fan. I graduated from [Peking University (PKU)](https://www.
 
 ## Contact:
 - **Email:** fanzc AT pku.edu.cn, fanzhch AT pcl.ac.cn, zhuochen.fan AT gmail.com;
-<!--
-- **Address:** Xingke 1st Street, Xili Town, Nanshan District, Shenzhen, Guangdong, China.
--->
+
 <p align='right'><i>Last updated: September 2026</i></p>
