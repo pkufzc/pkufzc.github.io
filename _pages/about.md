@@ -90,6 +90,6 @@ My name is Zhuochen Fan. I graduated from [Peking University (PKU)](https://www.
 - **[ICDE 2022]** **Zhuochen Fan**, Yinda Zhang, Tong Yang, Mingyi Yan, Gang Wen, Yuhan Wu, Hongze Li, Bin Cui. PeriodicSketch: Finding Periodic Items in Data Streams. *2022 IEEE 38th International Conference on Data Engineering (ICDE).* `CCF-A`
 
 ## Contact:
-- **Email:** fanzc AT pku.edu.cn, fanzhch AT pcl.ac.cn, zhuochen.fan AT gmail.com;
+- **Email:** fanzc AT pku.edu.cn, fanzhch AT pcl.ac.cn, zhuochen.fan AT gmail.com.
 
 <p align='right'><i>Last updated: September 2026</i></p>
