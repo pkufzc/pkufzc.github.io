@@ -21,6 +21,7 @@ My name is Zhuochen Fan【樊卓宸in Chinese】. I graduated from [Peking Unive
 - 【已招满】现招收2026年秋季入学的“鹏城国家实验室-中山大学”联合培养博士研究生（由中大颁发学位/毕业证书），招生简章请点击[这里](https://yzw.pcl.ac.cn/home/homeDetail/detail?id=1946152383544987650&detailId=1981174348974657537)，欢迎同学们联系！
 
 ## News: 
+- [11/2026]**(Award)**: Win the Outstanding Doctoral Dissertation Award of China Computer Federation (CCF) Data Governance Development Committee.
 - [09/2026]**(Paper)**: `ChRes-DM` is accepted by **NeurIPS'26**.
 - [09/2026]**(Paper)**: `Prometheus` is accepted by **EuroSys'27**.
 - [09/2026]**(Paper)**: `Crane` is accepted by **SIGMOD'27**.
@@ -39,7 +40,7 @@ My name is Zhuochen Fan【樊卓宸in Chinese】. I graduated from [Peking Unive
 - [11/2025]**(Paper)**: `DP4C` is accepted by **TCAD**.
 - [11/2025]**(Paper)**: `PBSketch` is accepted by **SIGKDD'26**.
 - [11/2025]**(Paper)**: `RatioSketch` is accepted by **AAAI'26**.
-- [10/2025]**(Award)**: Win the Outstanding Doctoral Dissertation Award from the Chinese Institute of Electronics (Blockchain Branch).
+- [10/2025]**(Award)**: Win the Outstanding Doctoral Dissertation Award of Chinese Institute of Electronics (CIE) Blockchain Branch.
 - [08/2025]**(Paper)**: `SandwichSketch` is accepted by **TKDE**.
 - [04/2025]**(Funding)**: Win the the Basic and Frontier Research Project of PCL.
 - [04/2025]**(Paper)**: `UniTE` is accepted by **IWQoS'25**.
